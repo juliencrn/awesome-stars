@@ -45,6 +45,7 @@
 
 ## JavaScript 
 
+- [ebradyjobory/finance.js](https://github.com/ebradyjobory/finance.js) - A JavaScript library for common financial calculations
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [adrianmcli/truffle-next](https://github.com/adrianmcli/truffle-next) - 🛰️ A boilerplate Truffle Box project with Next.js for rapid Ethereum Dapp development
@@ -114,6 +115,8 @@
 
 ## Others 
 
+- [dappuniversity/price-bot](https://github.com/dappuniversity/price-bot) - 
+- [dappuniversity/trading-bot](https://github.com/dappuniversity/trading-bot) - 
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [protofire/blockchain-learning-path](https://github.com/protofire/blockchain-learning-path) - A suggested learning path for blockchain development
 - [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository

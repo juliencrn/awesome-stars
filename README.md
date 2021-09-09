@@ -205,6 +205,7 @@
 
 ## TypeScript 
 
+- [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
 - [ecomfe/react-hooks](https://github.com/ecomfe/react-hooks) - Collection of react hooks
 - [kitze/react-hanger](https://github.com/kitze/react-hanger) - A collection of useful React hooks

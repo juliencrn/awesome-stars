@@ -205,6 +205,7 @@
 
 ## TypeScript 
 
+- [NiGhTTraX/ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) - Template for setting up a TypeScript monorepo
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
 - [ecomfe/react-hooks](https://github.com/ecomfe/react-hooks) - Collection of react hooks

@@ -22,6 +22,7 @@
   - [Solidity](#solidity)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
+  - [Vue](#vue)
 
 ## C 
 
@@ -45,6 +46,8 @@
 
 ## JavaScript 
 
+- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get a unified user avatar from multiple providers.
+- [sapegin/washingcode-book](https://github.com/sapegin/washingcode-book) - Washing your code: write once, read seven times
 - [Raathigesh/hooks.guide](https://github.com/Raathigesh/hooks.guide) - 🏗 Collection of React hooks curated by the community
 - [all-contributors/app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
 - [ebradyjobory/finance.js](https://github.com/ebradyjobory/finance.js) - A JavaScript library for common financial calculations
@@ -247,6 +250,10 @@
 - [pascalwhoop/dotfiles](https://github.com/pascalwhoop/dotfiles) - Dotfiles for my different devices. Tower, XPS and Dell Inspirion
 - [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - Dotfiles for Manjaro
 - [nschurmann/configs](https://github.com/nschurmann/configs) - My neovim configuration
+
+## Vue 
+
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
 
 ## License

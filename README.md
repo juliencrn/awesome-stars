@@ -30,6 +30,7 @@
 
 ## CSS 
 
+- [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [mladenplavsic/css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation
 - [jamstatic/jamstatic-fr](https://github.com/jamstatic/jamstatic-fr) - Sites statiques et architectures découplées
 - [lucagez/medium.css](https://github.com/lucagez/medium.css) - Compact typography for the web

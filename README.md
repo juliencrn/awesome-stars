@@ -250,7 +250,7 @@
 ## Vim script 
 
 - [mannuelf/dotvimrc](https://github.com/mannuelf/dotvimrc) - My vimrc file, so we can take it anywhere
-- [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - Automatically save changes to disk in Vim
+- [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - A Vim plugin which saves files to disk automatically.
 - [pascalwhoop/dotfiles](https://github.com/pascalwhoop/dotfiles) - Dotfiles for my different devices. Tower, XPS and Dell Inspirion
 - [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - My personal dotfiles (how do these have so many stars?)
 - [nschurmann/configs](https://github.com/nschurmann/configs) - My neovim configuration

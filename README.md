@@ -67,7 +67,7 @@
 - [SilentCicero/react-dapp-boilerplate](https://github.com/SilentCicero/react-dapp-boilerplate) - A highly standardized and optimized react dApp boilerplate.
 - [hackingbeauty/react-dapp-boilerplate](https://github.com/hackingbeauty/react-dapp-boilerplate) - A Truffle box with a superior React UI foundation for Ethereum Smart Contracts
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [YannickDot/console.image](https://github.com/YannickDot/console.image) - A nice snippet to log images in chrome console 🌈
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -97,7 +97,7 @@
 - [jh3y/gulp-boilerplate](https://github.com/jh3y/gulp-boilerplate) - a simple gulp boilerplate
 - [naomiHauret/js-stack-from-scratch](https://github.com/naomiHauret/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [CodementorIO/nextjs-redux-starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js + Redux + styled-components + Express = 😇
-- [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 10 and MUI
+- [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 12 and MUI
 - [iaincollins/nextjs-starter](https://github.com/iaincollins/nextjs-starter) - A starter project for Next.js with authentication
 - [victor36max/keystone-next-example](https://github.com/victor36max/keystone-next-example) - Example app of integrating KeystoneJS & Next.js
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banners for iOS and Android
@@ -188,7 +188,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [paritytech/polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [stevencoveta/rust-lang-game](https://github.com/stevencoveta/rust-lang-game) - Learning project in rust
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 

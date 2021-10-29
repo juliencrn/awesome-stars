@@ -47,6 +47,7 @@
 
 ## JavaScript 
 
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get a unified user avatar from multiple providers.
 - [sapegin/washingcode-book](https://github.com/sapegin/washingcode-book) - Washing your code: write once, read seven times
 - [Raathigesh/hooks.guide](https://github.com/Raathigesh/hooks.guide) - 🏗 Collection of React hooks curated by the community

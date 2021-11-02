@@ -47,6 +47,7 @@
 
 ## JavaScript 
 
+- [kevin940726/remark-codesandbox](https://github.com/kevin940726/remark-codesandbox) - 🎩  Create CodeSandbox directly from code blocks
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get a unified user avatar from multiple providers.
 - [sapegin/washingcode-book](https://github.com/sapegin/washingcode-book) - Washing your code: write once, read seven times
@@ -214,6 +215,7 @@
 
 ## TypeScript 
 
+- [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - 🧰 A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol
 - [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno

@@ -122,6 +122,7 @@
 
 ## Others 
 
+- [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [dappuniversity/price-bot](https://github.com/dappuniversity/price-bot) - 
 - [dappuniversity/trading-bot](https://github.com/dappuniversity/trading-bot) - 
@@ -215,6 +216,8 @@
 
 ## TypeScript 
 
+- [scaffold-eth/eth-hooks](https://github.com/scaffold-eth/eth-hooks) - 🖇 React library of commonly used Ethereum hooks
+- [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - 🧰 A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol

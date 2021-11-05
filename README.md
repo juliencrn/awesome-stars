@@ -47,6 +47,7 @@
 
 ## JavaScript 
 
+- [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) - HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
 - [kevin940726/remark-codesandbox](https://github.com/kevin940726/remark-codesandbox) - 🎩  Create CodeSandbox directly from code blocks
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get a unified user avatar from multiple providers.
@@ -216,6 +217,7 @@
 
 ## TypeScript 
 
+- [streamich/ts-easing](https://github.com/streamich/ts-easing) - Easing functions in TypeScript
 - [scaffold-eth/eth-hooks](https://github.com/scaffold-eth/eth-hooks) - 🖇 React library of commonly used Ethereum hooks
 - [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks

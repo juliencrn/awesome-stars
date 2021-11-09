@@ -47,6 +47,7 @@
 
 ## JavaScript 
 
+- [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) - Collectible 8-bit characters on the Ethereum blockchain.
 - [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) - HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
@@ -219,6 +220,7 @@
 
 ## TypeScript 
 
+- [zeromq/zeromq.js](https://github.com/zeromq/zeromq.js) - :zap: Node.js bindings to the ØMQ library
 - [streamich/ts-easing](https://github.com/streamich/ts-easing) - Easing functions in TypeScript
 - [scaffold-eth/eth-hooks](https://github.com/scaffold-eth/eth-hooks) - 🖇 React library of commonly used Ethereum hooks
 - [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library

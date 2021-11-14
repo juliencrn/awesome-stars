@@ -176,6 +176,7 @@
 
 ## Python 
 
+- [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix) - 
 - [stevencoveta/solidity_exercices](https://github.com/stevencoveta/solidity_exercices) - 
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [ultrabug/py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper written in python

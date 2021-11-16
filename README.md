@@ -48,6 +48,7 @@
 
 ## JavaScript 
 
+- [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage) - ⁂ The simple file storage service for IPFS & Filecoin
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [Hermanya/create-react-hook](https://github.com/Hermanya/create-react-hook) - 🎣CLI for easily creating reusable react hooks.

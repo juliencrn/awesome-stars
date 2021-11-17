@@ -10,6 +10,7 @@
   - [Go](#go)
   - [HTML](#html)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [Nunjucks](#nunjucks)
   - [Others](#others)
@@ -123,6 +124,10 @@
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 - [ramsaylanier/WordExpressSchema](https://github.com/ramsaylanier/WordExpressSchema) - This package provides a connection to a WordPress database using Sequelize and provides a standard set of GraphQL queries.
 
+## Jupyter Notebook 
+
+- [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) - 
+
 ## Lua 
 
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - My ultimate React Neovim config
@@ -232,6 +237,7 @@
 
 ## TypeScript 
 
+- [spectrexyz/use-nft](https://github.com/spectrexyz/use-nft) - 🍮 React hook to fetch metadata from any NFT.
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site

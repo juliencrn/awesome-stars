@@ -233,6 +233,7 @@
 
 ## Solidity 
 
+- [maximebrugel/OniiChain](https://github.com/maximebrugel/OniiChain) - Anime NFTs with SVG on-chain (Ethereum)
 - [pancakeswap/pancake-farm](https://github.com/pancakeswap/pancake-farm) - 
 
 ## TypeScript 

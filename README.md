@@ -240,6 +240,7 @@
 
 ## TypeScript 
 
+- [wellyshen/use-web-animations](https://github.com/wellyshen/use-web-animations) - 😎 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [spectrexyz/use-nft](https://github.com/spectrexyz/use-nft) - 🍮 React hook to fetch metadata from any NFT.
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.

@@ -50,6 +50,9 @@
 
 ## JavaScript 
 
+- [yoongyy/pancakeswap-snipe-bot](https://github.com/yoongyy/pancakeswap-snipe-bot) - A bot that will snipe PancakeSwap pairs created and do a Auto buy on the token.
+- [vadimdemedes/tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) - 🦎 Use Tailwind CSS in React Native projects
+- [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 - [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage) - ⁂ The simple file storage service for IPFS & Filecoin
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
@@ -142,6 +145,7 @@
 
 ## Others 
 
+- [mnedelchev-vn/pancakeswap-sniper-bot](https://github.com/mnedelchev-vn/pancakeswap-sniper-bot) - A free NodeJS sniper bot built to work with PancakeSwap: Router V2.
 - [dalisoft/awesome-hosting](https://github.com/dalisoft/awesome-hosting) - List of awesome hosting
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -245,6 +249,8 @@
 
 ## TypeScript 
 
+- [CaoHuy26/pancake-trading-bot](https://github.com/CaoHuy26/pancake-trading-bot) - A simple mempool sniper bot 🤖
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [Purii/react-use-scrollspy](https://github.com/Purii/react-use-scrollspy) - Flexible React Hook to automatically update navigation based on scroll position
 - [wellyshen/use-web-animations](https://github.com/wellyshen/use-web-animations) - 😎 🍿 React hook for highly-performant and manipulable animations using Web Animations API.

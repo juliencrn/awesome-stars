@@ -50,6 +50,7 @@
 
 ## JavaScript 
 
+- [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - 😋 Free decentralized storage and bandwidth for NFTs on IPFS and Filecoin.
 - [yoongyy/pancakeswap-snipe-bot](https://github.com/yoongyy/pancakeswap-snipe-bot) - A bot that will snipe PancakeSwap pairs created and do a Auto buy on the token.
 - [vadimdemedes/tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) - 🦎 Use Tailwind CSS in React Native projects
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
@@ -249,6 +250,7 @@
 
 ## TypeScript 
 
+- [KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao) - Monorepo for the official KlimaDAO site, dApp, components and design system.
 - [CaoHuy26/pancake-trading-bot](https://github.com/CaoHuy26/pancake-trading-bot) - A simple mempool sniper bot 🤖
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.

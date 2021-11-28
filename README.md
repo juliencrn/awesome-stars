@@ -40,6 +40,7 @@
 
 ## Go 
 
+- [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go) - ⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.
 - [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
 
 ## HTML 
@@ -250,6 +251,8 @@
 
 ## TypeScript 
 
+- [ElrondNetwork/starter-dapp](https://github.com/ElrondNetwork/starter-dapp) - 
+- [ElrondNetwork/elrond-ide-vscode](https://github.com/ElrondNetwork/elrond-ide-vscode) - 💻 VS Code extension for developing Elrond Smart Contracts - Rust, C and C++.
 - [KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao) - Monorepo for the official KlimaDAO site, dApp, components and design system.
 - [CaoHuy26/pancake-trading-bot](https://github.com/CaoHuy26/pancake-trading-bot) - A simple mempool sniper bot 🤖
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps

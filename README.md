@@ -51,6 +51,7 @@
 
 ## JavaScript 
 
+- [ProjectOpenSea/opensea-erc1155](https://github.com/ProjectOpenSea/opensea-erc1155) - Example semi-fungible collectible, to demonstrate OpenSea integration for an ERC-1155 contract
 - [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - 😋 Free decentralized storage and bandwidth for NFTs on IPFS and Filecoin.
 - [yoongyy/pancakeswap-snipe-bot](https://github.com/yoongyy/pancakeswap-snipe-bot) - A bot that will snipe PancakeSwap pairs created and do a Auto buy on the token.
 - [vadimdemedes/tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) - 🦎 Use Tailwind CSS in React Native projects
@@ -90,7 +91,7 @@
 - [SilentCicero/react-dapp-boilerplate](https://github.com/SilentCicero/react-dapp-boilerplate) - A highly standardized and optimized react dApp boilerplate.
 - [hackingbeauty/react-dapp-boilerplate](https://github.com/hackingbeauty/react-dapp-boilerplate) - A Truffle box with a superior React UI foundation for Ethereum Smart Contracts
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [YannickDot/console.image](https://github.com/YannickDot/console.image) - A nice snippet to log images in chrome console 🌈
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -147,6 +148,7 @@
 
 ## Others 
 
+- [dabit3/ipfs-pinata-example](https://github.com/dabit3/ipfs-pinata-example) - Example function showing how to pin a file to Pinata from a JavaScript client
 - [mnedelchev-vn/pancakeswap-sniper-bot](https://github.com/mnedelchev-vn/pancakeswap-sniper-bot) - A free NodeJS sniper bot built to work with PancakeSwap: Router V2.
 - [dalisoft/awesome-hosting](https://github.com/dalisoft/awesome-hosting) - List of awesome hosting
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
@@ -204,6 +206,7 @@
 
 ## Rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Supercolony-net/openbrush-contracts](https://github.com/Supercolony-net/openbrush-contracts) - 
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust

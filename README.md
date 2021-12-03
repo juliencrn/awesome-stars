@@ -51,6 +51,8 @@
 
 ## JavaScript 
 
+- [ProjectOpenSea/opensea-creatures](https://github.com/ProjectOpenSea/opensea-creatures) - Example non-fungible collectible, to demonstrate OpenSea integration
+- [jklepatch/eattheblocks](https://github.com/jklepatch/eattheblocks) - Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers
 - [ProjectOpenSea/opensea-erc1155](https://github.com/ProjectOpenSea/opensea-erc1155) - Example semi-fungible collectible, to demonstrate OpenSea integration for an ERC-1155 contract
 - [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - 😋 Free decentralized storage and bandwidth for NFTs on IPFS and Filecoin.
 - [yoongyy/pancakeswap-snipe-bot](https://github.com/yoongyy/pancakeswap-snipe-bot) - A bot that will snipe PancakeSwap pairs created and do a Auto buy on the token.
@@ -97,7 +99,7 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [jest-community/jest-runner-eslint](https://github.com/jest-community/jest-runner-eslint) - An ESLint runner for Jest
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [oleh-polishchuk/react-scroll-snap-points-slider](https://github.com/oleh-polishchuk/react-scroll-snap-points-slider) - React slider (use CSS Scroll Snap Points)
 - [snyk-labs/eslint-config-react-security](https://github.com/snyk-labs/eslint-config-react-security) - A ESLint configuration package for React developers who want to avoid security mistakes.
@@ -170,7 +172,6 @@
 - [PacktPublishing/Mastering-React-Test-Driven-Development](https://github.com/PacktPublishing/Mastering-React-Test-Driven-Development) - Mastering React Test-Driven Development, published by Packt
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [SocialGouv/tutoriel-gitlab](https://github.com/SocialGouv/tutoriel-gitlab) - Tutoriel GitLab en Français
 - [styled-components/awesome-styled-components](https://github.com/styled-components/awesome-styled-components) - A curated list of awesome styled-components resources 💅
@@ -309,6 +310,7 @@
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [fabien0102/gatsby-starter](https://github.com/fabien0102/gatsby-starter) - Gatsby 2.0 starter with typescript and many cools dev tools
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 
 ## Vim script 

@@ -246,6 +246,7 @@
 
 ## Solidity 
 
+- [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities for Solidity
 - [maximebrugel/OniiChain](https://github.com/maximebrugel/OniiChain) - Anime NFTs with SVG on-chain (Ethereum)
 - [pancakeswap/pancake-farm](https://github.com/pancakeswap/pancake-farm) - 
 

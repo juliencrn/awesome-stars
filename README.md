@@ -256,6 +256,7 @@
 
 ## TypeScript 
 
+- [alexreardon/tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A tiny invariant function
 - [ElrondNetwork/starter-dapp](https://github.com/ElrondNetwork/starter-dapp) - 
 - [ElrondNetwork/elrond-ide-vscode](https://github.com/ElrondNetwork/elrond-ide-vscode) - 💻 VS Code extension for developing Elrond Smart Contracts - Rust, C and C++.
 - [KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao) - Monorepo for the official KlimaDAO site, dApp, components and design system.

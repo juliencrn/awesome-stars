@@ -32,6 +32,7 @@
 
 ## CSS 
 
+- [Shmoji/web3-react-example](https://github.com/Shmoji/web3-react-example) - A simple example of using the web3-react library
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [mladenplavsic/css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation
 - [jamstatic/jamstatic-fr](https://github.com/jamstatic/jamstatic-fr) - Sites statiques et architectures découplées
@@ -274,7 +275,7 @@
 - [zeromq/zeromq.js](https://github.com/zeromq/zeromq.js) - :zap: Node.js bindings to the ØMQ library
 - [streamich/ts-easing](https://github.com/streamich/ts-easing) - Easing functions in TypeScript
 - [scaffold-eth/eth-hooks](https://github.com/scaffold-eth/eth-hooks) - 🖇 React library of commonly used Ethereum hooks
-- [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library
+- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react) - 🧰 A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol

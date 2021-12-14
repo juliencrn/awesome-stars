@@ -101,7 +101,6 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [jest-community/jest-runner-eslint](https://github.com/jest-community/jest-runner-eslint) - An ESLint runner for Jest
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [oleh-polishchuk/react-scroll-snap-points-slider](https://github.com/oleh-polishchuk/react-scroll-snap-points-slider) - React slider (use CSS Scroll Snap Points)
 - [snyk-labs/eslint-config-react-security](https://github.com/snyk-labs/eslint-config-react-security) - A ESLint configuration package for React developers who want to avoid security mistakes.
@@ -210,6 +209,7 @@
 
 ## Rust 
 
+- [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -307,6 +307,7 @@
 - [SaimirKapaj/gatsby-redux-toolkit-typescript-starter](https://github.com/SaimirKapaj/gatsby-redux-toolkit-typescript-starter) - Gatsby Redux-Toolkit Typescript starter
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [joe-bell/cx](https://github.com/joe-bell/cx) - Concatenate your classes (with shortcuts) 🔗
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [SortableJS/react-sortablejs](https://github.com/SortableJS/react-sortablejs) - React bindings for SortableJS
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps

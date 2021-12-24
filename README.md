@@ -53,6 +53,7 @@
 
 ## JavaScript 
 
+- [BonhommeAnthony/NFTerrible](https://github.com/BonhommeAnthony/NFTerrible) - NFT Marketplace
 - [ProjectOpenSea/opensea-creatures](https://github.com/ProjectOpenSea/opensea-creatures) - Example non-fungible collectible, to demonstrate OpenSea integration
 - [jklepatch/eattheblocks](https://github.com/jklepatch/eattheblocks) - Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers
 - [ProjectOpenSea/opensea-erc1155](https://github.com/ProjectOpenSea/opensea-erc1155) - Example semi-fungible collectible, to demonstrate OpenSea integration for an ERC-1155 contract

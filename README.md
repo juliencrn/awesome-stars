@@ -99,6 +99,7 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [YannickDot/console.image](https://github.com/YannickDot/console.image) - A nice snippet to log images in chrome console 🌈
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [jest-community/jest-runner-eslint](https://github.com/jest-community/jest-runner-eslint) - An ESLint runner for Jest
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -306,7 +307,6 @@
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [patrickgodinho/shiftapp](https://github.com/patrickgodinho/shiftapp) - A starter app using react-native + redux + firebase
 - [SaimirKapaj/gatsby-redux-toolkit-typescript-starter](https://github.com/SaimirKapaj/gatsby-redux-toolkit-typescript-starter) - Gatsby Redux-Toolkit Typescript starter
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [joe-bell/cx](https://github.com/joe-bell/cx) - Concatenate your classes (with shortcuts) 🔗
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [SortableJS/react-sortablejs](https://github.com/SortableJS/react-sortablejs) - React bindings for SortableJS

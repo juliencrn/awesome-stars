@@ -254,6 +254,7 @@
 
 ## Solidity 
 
+- [KlimaDAO/klimadao-solidity](https://github.com/KlimaDAO/klimadao-solidity) - Solidity Contracts for KlimaDAO protocol
 - [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities for Solidity
 - [maximebrugel/OniiChain](https://github.com/maximebrugel/OniiChain) - Anime NFTs with SVG on-chain (Ethereum)
 - [pancakeswap/pancake-farm](https://github.com/pancakeswap/pancake-farm) - 
@@ -264,6 +265,7 @@
 
 ## TypeScript 
 
+- [Gumichocopengin8/crate-trends](https://github.com/Gumichocopengin8/crate-trends) - 🦀Visualize Rust Package: Crates comparison website
 - [alexreardon/tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A tiny invariant function
 - [ElrondNetwork/starter-dapp](https://github.com/ElrondNetwork/starter-dapp) - 
 - [ElrondNetwork/elrond-ide-vscode](https://github.com/ElrondNetwork/elrond-ide-vscode) - 💻 VS Code extension for developing Elrond Smart Contracts - Rust, C and C++.

@@ -265,6 +265,7 @@
 
 ## TypeScript 
 
+- [SimeonGriggs/tailwind-css-palette-generator](https://github.com/SimeonGriggs/tailwind-css-palette-generator) - 10-color Palette Generator and API for Tailwind CSS
 - [Gumichocopengin8/crate-trends](https://github.com/Gumichocopengin8/crate-trends) - 🦀Visualize Rust Package: Crates comparison website
 - [alexreardon/tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A tiny invariant function
 - [ElrondNetwork/starter-dapp](https://github.com/ElrondNetwork/starter-dapp) - 

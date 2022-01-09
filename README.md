@@ -265,6 +265,7 @@
 
 ## TypeScript 
 
+- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [SimeonGriggs/tailwind-css-palette-generator](https://github.com/SimeonGriggs/tailwind-css-palette-generator) - 10-color Palette Generator and API for Tailwind CSS
 - [Gumichocopengin8/crate-trends](https://github.com/Gumichocopengin8/crate-trends) - 🦀Visualize Rust Package: Crates comparison website
 - [alexreardon/tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A tiny invariant function

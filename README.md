@@ -115,7 +115,7 @@
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - Easy to understand React Hook code recipes
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [robinmetral/33-concepts-js](https://github.com/robinmetral/33-concepts-js) - 📜 33 concepts que tout développeur JavaScript devrait connaître.
-- [LekoArts/gatsby-starter-prismic](https://github.com/LekoArts/gatsby-starter-prismic) - A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS Prismic.
+- [LekoArts/gatsby-starter-prismic](https://github.com/LekoArts/gatsby-starter-prismic) - Get started with your Photography portfolio with Prismic.io & Gatsby
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [nijikokun/minami](https://github.com/nijikokun/minami) - 💅 Clean and minimal JSDoc 3 Template / Theme
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
@@ -254,6 +254,7 @@
 
 ## Solidity 
 
+- [1001-digital/erc721-extensions](https://github.com/1001-digital/erc721-extensions) - A set of composable extension contracts for the OpenZeppelin ERC721 base contracts.
 - [KlimaDAO/klimadao-solidity](https://github.com/KlimaDAO/klimadao-solidity) - Solidity Contracts for KlimaDAO protocol
 - [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities for Solidity
 - [maximebrugel/OniiChain](https://github.com/maximebrugel/OniiChain) - Anime NFTs with SVG on-chain (Ethereum)

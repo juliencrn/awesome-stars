@@ -53,6 +53,7 @@
 
 ## JavaScript 
 
+- [jaredpalmer/github-repos](https://github.com/jaredpalmer/github-repos) - Microservice for `jaredpalmer.com`
 - [BonhommeAnthony/NFTerrible](https://github.com/BonhommeAnthony/NFTerrible) - NFT Marketplace
 - [ProjectOpenSea/opensea-creatures](https://github.com/ProjectOpenSea/opensea-creatures) - Example non-fungible collectible, to demonstrate OpenSea integration
 - [jklepatch/eattheblocks](https://github.com/jklepatch/eattheblocks) - Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers
@@ -267,6 +268,8 @@
 
 ## TypeScript 
 
+- [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
+- [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [SimeonGriggs/tailwind-css-palette-generator](https://github.com/SimeonGriggs/tailwind-css-palette-generator) - 10-color Palette Generator and API for Tailwind CSS
 - [Gumichocopengin8/crate-trends](https://github.com/Gumichocopengin8/crate-trends) - 🦀Visualize Rust Package: Crates comparison website

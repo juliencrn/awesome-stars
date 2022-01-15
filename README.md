@@ -218,7 +218,7 @@
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Supercolony-net/openbrush-contracts](https://github.com/Supercolony-net/openbrush-contracts) - 
-- [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [greyblake/ta-rs](https://github.com/greyblake/ta-rs) - Technical analysis library for Rust language
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.

@@ -268,6 +268,7 @@
 
 ## TypeScript 
 
+- [ElrondNetwork/dapp-core](https://github.com/ElrondNetwork/dapp-core) - 
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.

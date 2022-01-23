@@ -53,6 +53,7 @@
 
 ## JavaScript 
 
+- [artradeapp/Artrade-base-smart-contract](https://github.com/artradeapp/Artrade-base-smart-contract) - Artrade : The first social network for the NFT market !
 - [jaredpalmer/github-repos](https://github.com/jaredpalmer/github-repos) - Microservice for `jaredpalmer.com`
 - [BonhommeAnthony/NFTerrible](https://github.com/BonhommeAnthony/NFTerrible) - NFT Marketplace
 - [ProjectOpenSea/opensea-creatures](https://github.com/ProjectOpenSea/opensea-creatures) - Example non-fungible collectible, to demonstrate OpenSea integration
@@ -344,6 +345,7 @@
 
 ## Vue 
 
+- [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Off-chain gasless multi-governance client. Join us on Discord https://discord.gg/snapshot
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
 

@@ -213,6 +213,7 @@
 
 ## Rust 
 
+- [evoxmusic/twitter-clone-rust](https://github.com/evoxmusic/twitter-clone-rust) - Twitter clone in Rust
 - [ElrondNetwork/elrond-wasm-rs](https://github.com/ElrondNetwork/elrond-wasm-rs) - 🦀 Rust smart contract library designed for Elrond's Arwen VM. Also provides a debugging mode with mocks.
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust

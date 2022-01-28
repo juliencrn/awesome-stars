@@ -272,6 +272,7 @@
 
 ## TypeScript 
 
+- [Lindeneg/generate-next-links](https://github.com/Lindeneg/generate-next-links) - Generate typescript enum containing paths to nextjs pages
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web browser that's built for scraping.
 - [ElrondNetwork/dapp-core](https://github.com/ElrondNetwork/dapp-core) - 
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website

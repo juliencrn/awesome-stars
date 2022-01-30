@@ -32,7 +32,6 @@
 
 ## CSS 
 
-- [Shmoji/web3-react-example](https://github.com/Shmoji/web3-react-example) - A simple example of using the web3-react library
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [mladenplavsic/css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation
 - [jamstatic/jamstatic-fr](https://github.com/jamstatic/jamstatic-fr) - Sites statiques et architectures découplées
@@ -56,6 +55,7 @@
 - [artradeapp/Artrade-base-smart-contract](https://github.com/artradeapp/Artrade-base-smart-contract) - Artrade : The first social network for the NFT market !
 - [jaredpalmer/github-repos](https://github.com/jaredpalmer/github-repos) - Microservice for `jaredpalmer.com`
 - [BonhommeAnthony/NFTerrible](https://github.com/BonhommeAnthony/NFTerrible) - NFT Marketplace
+- [Shmoji/web3-react-example](https://github.com/Shmoji/web3-react-example) - A simple example of using the web3-react library
 - [ProjectOpenSea/opensea-creatures](https://github.com/ProjectOpenSea/opensea-creatures) - Example non-fungible collectible, to demonstrate OpenSea integration
 - [jklepatch/eattheblocks](https://github.com/jklepatch/eattheblocks) - Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers
 - [ProjectOpenSea/opensea-erc1155](https://github.com/ProjectOpenSea/opensea-erc1155) - Example semi-fungible collectible, to demonstrate OpenSea integration for an ERC-1155 contract
@@ -272,6 +272,7 @@
 
 ## TypeScript 
 
+- [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates a randomized set of images or encoded SVGs from provided PNG layers
 - [Lindeneg/generate-next-links](https://github.com/Lindeneg/generate-next-links) - Generate typescript enum containing paths to nextjs pages
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web browser that's built for scraping.
 - [ElrondNetwork/dapp-core](https://github.com/ElrondNetwork/dapp-core) - 

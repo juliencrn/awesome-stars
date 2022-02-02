@@ -273,6 +273,7 @@
 
 ## TypeScript 
 
+- [ducktordanny/jsx-portfolio](https://github.com/ducktordanny/jsx-portfolio) - Portolio what styled like JSX.
 - [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates a randomized set of images or encoded SVGs from provided PNG layers
 - [Lindeneg/generate-next-links](https://github.com/Lindeneg/generate-next-links) - Generate typescript enum containing paths to nextjs pages
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web browser that's built for scraping.

@@ -52,6 +52,7 @@
 
 ## JavaScript 
 
+- [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [artradeapp/Artrade-base-smart-contract](https://github.com/artradeapp/Artrade-base-smart-contract) - Artrade : The first social network for the NFT market !
 - [jaredpalmer/github-repos](https://github.com/jaredpalmer/github-repos) - Microservice for `jaredpalmer.com`
 - [BonhommeAnthony/NFTerrible](https://github.com/BonhommeAnthony/NFTerrible) - NFT Marketplace
@@ -273,6 +274,7 @@
 
 ## TypeScript 
 
+- [arthurdenner/use-lax](https://github.com/arthurdenner/use-lax) - React hook to use with lax.js
 - [ducktordanny/jsx-portfolio](https://github.com/ducktordanny/jsx-portfolio) - Portolio what styled like JSX.
 - [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates a randomized set of images or encoded SVGs from provided PNG layers
 - [Lindeneg/generate-next-links](https://github.com/Lindeneg/generate-next-links) - Generate typescript enum containing paths to nextjs pages

@@ -74,7 +74,7 @@
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) - Collectible 8-bit characters on the Ethereum blockchain.
 - [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) - HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
 - [kevin940726/remark-codesandbox](https://github.com/kevin940726/remark-codesandbox) - 🎩  Create CodeSandbox directly from code blocks
@@ -215,6 +215,8 @@
 
 ## Rust 
 
+- [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
+- [wisespace-io/binance-rs](https://github.com/wisespace-io/binance-rs) - Rust Library for the Binance API
 - [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [nash-io/openlimits](https://github.com/nash-io/openlimits) - A Rust high performance cryptocurrency trading API with support for multiple exchanges and language wrappers.
 - [juliancwirko/elven-nft-minter-sc](https://github.com/juliancwirko/elven-nft-minter-sc) - NFT minter - smart contract to be used with elven-tools-cli
@@ -277,7 +279,7 @@
 
 - [arthurdenner/use-lax](https://github.com/arthurdenner/use-lax) - React hook to use with lax.js
 - [ducktordanny/jsx-portfolio](https://github.com/ducktordanny/jsx-portfolio) - Portolio what styled like JSX.
-- [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates a randomized set of images or encoded SVGs from provided PNG layers
+- [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates images and metadata files and packs them into CAR files, all from provided PNG layers.
 - [Lindeneg/generate-next-links](https://github.com/Lindeneg/generate-next-links) - Generate typescript enum containing paths to nextjs pages
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web browser that's built for scraping.
 - [ElrondNetwork/dapp-core](https://github.com/ElrondNetwork/dapp-core) - 

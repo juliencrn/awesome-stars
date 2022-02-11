@@ -147,7 +147,7 @@
 
 ## Lua 
 
-- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with React, JavaScript & TypeScript frameworks.
+- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [Chewie/dotfiles](https://github.com/Chewie/dotfiles) - A repository containing my configuration files
 

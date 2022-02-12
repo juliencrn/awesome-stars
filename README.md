@@ -15,7 +15,6 @@
   - [Nunjucks](#nunjucks)
   - [Others](#others)
   - [PHP](#php)
-  - [PowerShell](#powershell)
   - [Python](#python)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -199,10 +198,6 @@
 - [markjaquith/WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository. I use this as a base when creating a new repo.
 - [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) - [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
 - [akhomy/docker-compose-lamp](https://github.com/akhomy/docker-compose-lamp) - Docker Compose LAMP stack
-
-## PowerShell 
-
-- [thanhvule0310/dracula-ohmyposh](https://github.com/thanhvule0310/dracula-ohmyposh) - 🧛‍♂️ Dark theme for Oh-my-posh (Powershell)
 
 ## Python 
 

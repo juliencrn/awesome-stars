@@ -214,7 +214,7 @@
 - [wisespace-io/binance-rs](https://github.com/wisespace-io/binance-rs) - Rust Library for the Binance API
 - [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [nash-io/openlimits](https://github.com/nash-io/openlimits) - A Rust high performance cryptocurrency trading API with support for multiple exchanges and language wrappers.
-- [juliancwirko/elven-nft-minter-sc](https://github.com/juliancwirko/elven-nft-minter-sc) - NFT minter - smart contract to be used with elven-tools-cli
+- [juliancwirko/elven-nft-minter-sc](https://github.com/juliancwirko/elven-nft-minter-sc) - Elven Tools SC - Smart Contract for launching NFTs collections on the Elrond blockchain
 - [evoxmusic/twitter-clone-rust](https://github.com/evoxmusic/twitter-clone-rust) - Twitter clone in Rust
 - [ElrondNetwork/elrond-wasm-rs](https://github.com/ElrondNetwork/elrond-wasm-rs) - 🦀 Rust smart contract library designed for Elrond's Arwen VM. Also provides a debugging mode with mocks.
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot

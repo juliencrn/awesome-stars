@@ -135,7 +135,7 @@
 - [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banners for iOS and Android
 - [wbkd/webpack-starter](https://github.com/wbkd/webpack-starter) - ✨ A lightweight foundation for your next webpack based frontend project.
 - [rock-solid/pwa-theme-woocommerce](https://github.com/rock-solid/pwa-theme-woocommerce) - E-commerce Progressive Web App Theme (React & Redux)
-- [oncletom/nodebook](https://github.com/oncletom/nodebook) - 📖 Livre publié aux Éditions Eyrolles • Première édition : Node.js v10 et npm v6.
+- [thom4parisot/nodebook](https://github.com/thom4parisot/nodebook) - 📖 Livre publié aux Éditions Eyrolles • Première édition : Node.js v10 et npm v6.
 - [atulmy/fullstack-graphql](https://github.com/atulmy/fullstack-graphql) - 🌈  Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 using Babel + Webpack.
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 - [ramsaylanier/WordExpressSchema](https://github.com/ramsaylanier/WordExpressSchema) - This package provides a connection to a WordPress database using Sequelize and provides a standard set of GraphQL queries.

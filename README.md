@@ -274,7 +274,7 @@
 
 - [arthurdenner/use-lax](https://github.com/arthurdenner/use-lax) - React hook to use with lax.js
 - [ducktordanny/jsx-portfolio](https://github.com/ducktordanny/jsx-portfolio) - Portolio what styled like JSX.
-- [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates images and metadata files and packs them into CAR files, all from provided PNG layers.
+- [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates images and metadata files and packs them into IPFS CAR files, all from provided PNG layers.
 - [Lindeneg/generate-next-links](https://github.com/Lindeneg/generate-next-links) - Generate typescript enum containing paths to nextjs pages
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web browser that's built for scraping.
 - [ElrondNetwork/dapp-core](https://github.com/ElrondNetwork/dapp-core) - 
@@ -295,7 +295,7 @@
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [spectrexyz/use-nft](https://github.com/spectrexyz/use-nft) - 🍮 React hook to fetch metadata from any NFT.
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
-- [nomiclabs/hardhat](https://github.com/nomiclabs/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [zeromq/zeromq.js](https://github.com/zeromq/zeromq.js) - :zap: Node.js bindings to the ØMQ library

@@ -200,7 +200,6 @@
 
 ## Python 
 
-- [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix) - 
 - [stevencoveta/solidity_exercices](https://github.com/stevencoveta/solidity_exercices) - 
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [ultrabug/py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper written in python
@@ -264,6 +263,7 @@
 - [KlimaDAO/klimadao-solidity](https://github.com/KlimaDAO/klimadao-solidity) - Solidity Contracts for KlimaDAO protocol
 - [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities for Solidity
 - [maximebrugel/OniiChain](https://github.com/maximebrugel/OniiChain) - Anime NFTs with SVG on-chain (Ethereum)
+- [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix) - 
 - [pancakeswap/pancake-farm](https://github.com/pancakeswap/pancake-farm) - 
 
 ## Svelte 

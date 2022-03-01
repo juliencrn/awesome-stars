@@ -208,6 +208,7 @@
 
 ## Rust 
 
+- [thecloudmaker/actix_tutorials](https://github.com/thecloudmaker/actix_tutorials) - Actix tutorials
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [wisespace-io/binance-rs](https://github.com/wisespace-io/binance-rs) - Rust Library for the Binance API
 - [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀

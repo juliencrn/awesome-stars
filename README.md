@@ -208,6 +208,7 @@
 
 ## Rust 
 
+- [ddimaria/rust-actix-example](https://github.com/ddimaria/rust-actix-example) - Example Actix 2.x REST application implementing many features
 - [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
 - [thecloudmaker/actix_tutorials](https://github.com/thecloudmaker/actix_tutorials) - Actix tutorials
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust

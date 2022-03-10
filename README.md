@@ -174,7 +174,6 @@
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [mrmartineau/awesome-web-dev-resources](https://github.com/mrmartineau/awesome-web-dev-resources) - 👌 My collection of go-to web development resources
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [JustStanix/Best-README-Template](https://github.com/JustStanix/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [PacktPublishing/Mastering-React-Test-Driven-Development](https://github.com/PacktPublishing/Mastering-React-Test-Driven-Development) - Mastering React Test-Driven Development, published by Packt
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -251,7 +250,7 @@
 
 ## Shell 
 
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [meriadec/dotfiles](https://github.com/meriadec/dotfiles) - Perfect dotfiles

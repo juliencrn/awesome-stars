@@ -98,7 +98,6 @@
 - [dappuniversity/starter_kit](https://github.com/dappuniversity/starter_kit) - Start building full stack dApps fast with this starter kit!
 - [SilentCicero/react-dapp-boilerplate](https://github.com/SilentCicero/react-dapp-boilerplate) - A highly standardized and optimized react dApp boilerplate.
 - [hackingbeauty/react-dapp-boilerplate](https://github.com/hackingbeauty/react-dapp-boilerplate) - A Truffle box with a superior React UI foundation for Ethereum Smart Contracts
-- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2022)
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [YannickDot/console.image](https://github.com/YannickDot/console.image) - A nice snippet to log images in chrome console 🌈
@@ -246,6 +245,7 @@
 ## SCSS 
 
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
+- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [KittyGiraudel/sass-boilerplate](https://github.com/KittyGiraudel/sass-boilerplate) - A boilerplate for Sass projects using the 7-1 architecture pattern from Sass Guidelines.
 
 ## Shell 

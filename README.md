@@ -261,6 +261,7 @@
 
 ## Solidity 
 
+- [t4sk/defi-by-example](https://github.com/t4sk/defi-by-example) - 
 - [1001-digital/erc721-extensions](https://github.com/1001-digital/erc721-extensions) - A set of composable extension contracts for the OpenZeppelin ERC721 base contracts.
 - [KlimaDAO/klimadao-solidity](https://github.com/KlimaDAO/klimadao-solidity) - Solidity Contracts for KlimaDAO protocol
 - [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities for Solidity

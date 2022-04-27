@@ -261,6 +261,7 @@
 
 ## Solidity 
 
+- [1inch/1inchProtocol](https://github.com/1inch/1inchProtocol) - 1inch Protocol – fully on-chain DeFi aggregation protocol
 - [t4sk/defi-by-example](https://github.com/t4sk/defi-by-example) - 
 - [1001-digital/erc721-extensions](https://github.com/1001-digital/erc721-extensions) - A set of composable extension contracts for the OpenZeppelin ERC721 base contracts.
 - [KlimaDAO/klimadao-solidity](https://github.com/KlimaDAO/klimadao-solidity) - Solidity Contracts for KlimaDAO protocol
@@ -324,7 +325,7 @@
 - [HQ20/contracts](https://github.com/HQ20/contracts) - A set of reusable smart-contracts
 - [react-restart/hooks](https://github.com/react-restart/hooks) - A set of utility and general-purpose React hooks.
 - [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
-- [makenotion/web](https://github.com/makenotion/web) - Official Notion JavaScript Client
+- [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm

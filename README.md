@@ -211,7 +211,7 @@
 - [thecloudmaker/actix_tutorials](https://github.com/thecloudmaker/actix_tutorials) - Actix tutorials
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [wisespace-io/binance-rs](https://github.com/wisespace-io/binance-rs) - Rust Library for the Binance API
-- [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
+- [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [nash-io/openlimits](https://github.com/nash-io/openlimits) - A Rust high performance cryptocurrency trading API with support for multiple exchanges and language wrappers.
 - [ElvenTools/elven-nft-minter-sc](https://github.com/ElvenTools/elven-nft-minter-sc) - Elven Tools SC - Smart Contract for launching NFTs collections on the Elrond blockchain
 - [evoxmusic/twitter-clone-rust](https://github.com/evoxmusic/twitter-clone-rust) - Twitter clone in Rust
@@ -293,7 +293,7 @@
 - [ElrondNetwork/starter-dapp](https://github.com/ElrondNetwork/starter-dapp) - 
 - [ElrondNetwork/elrond-ide-vscode](https://github.com/ElrondNetwork/elrond-ide-vscode) - 💻 VS Code extension for developing Elrond Smart Contracts - Rust, C and C++.
 - [KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao) - Monorepo for the official KlimaDAO site, dApp, components and design system.
-- [CaoHuy26/pancake-trading-bot](https://github.com/CaoHuy26/pancake-trading-bot) - A simple mempool sniper bot 🤖
+- [0x9e2fa22b/pancake-trading-bot](https://github.com/0x9e2fa22b/pancake-trading-bot) - A simple mempool sniper bot 🤖
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [Purii/react-use-scrollspy](https://github.com/Purii/react-use-scrollspy) - Flexible React Hook to automatically update navigation based on scroll position

@@ -39,6 +39,7 @@
 
 ## Go 
 
+- [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go) - ⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.
 - [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
 

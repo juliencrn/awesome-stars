@@ -35,7 +35,7 @@
 - [mladenplavsic/css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation
 - [jamstatic/jamstatic-fr](https://github.com/jamstatic/jamstatic-fr) - Sites statiques et architectures découplées
 - [lucagez/medium.css](https://github.com/lucagez/medium.css) - Compact typography for the web
-- [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+- [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out
 
 ## Go 
 
@@ -87,7 +87,7 @@
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [adrianmcli/truffle-next](https://github.com/adrianmcli/truffle-next) - 🛰️ A boilerplate Truffle Box project with Next.js for rapid Ethereum Dapp development
-- [truffle-box/drizzle-box](https://github.com/truffle-box/drizzle-box) - This box comes with everything you need to start using smart contracts from a react app with Drizzle. It includes drizzle, drizzle-react and drizzle-react-components to give you a complete overview of Drizzle's capabilities.
+- [truffle-box/drizzle-box](https://github.com/truffle-box/drizzle-box) - This box comes with everything you need to start using smart contracts from a react app with Drizzle. It includes drizzle, drizzle-react and drizzle-react-components to give you a complete overview of
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [kmadorin/flashbot](https://github.com/kmadorin/flashbot) - 
 - [Cykelero/tasklemon](https://github.com/Cykelero/tasklemon) - Painless automation in JavaScript.
@@ -136,7 +136,7 @@
 - [wbkd/webpack-starter](https://github.com/wbkd/webpack-starter) - ✨ A lightweight foundation for your next webpack based frontend project.
 - [rock-solid/pwa-theme-woocommerce](https://github.com/rock-solid/pwa-theme-woocommerce) - E-commerce Progressive Web App Theme (React & Redux)
 - [thom4parisot/nodebook](https://github.com/thom4parisot/nodebook) - 📖 Livre publié aux Éditions Eyrolles • Première édition : Node.js v10 et npm v6.
-- [atulmy/fullstack-graphql](https://github.com/atulmy/fullstack-graphql) - 🌈  Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 using Babel + Webpack.
+- [atulmy/fullstack-graphql](https://github.com/atulmy/fullstack-graphql) - 🌈  Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 us
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 - [ramsaylanier/WordExpressSchema](https://github.com/ramsaylanier/WordExpressSchema) - This package provides a connection to a WordPress database using Sequelize and provides a standard set of GraphQL queries.
 
@@ -207,6 +207,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [ddimaria/rust-actix-example](https://github.com/ddimaria/rust-actix-example) - Example Actix 2.x REST application implementing many features
 - [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
 - [thecloudmaker/actix_tutorials](https://github.com/thecloudmaker/actix_tutorials) - Actix tutorials

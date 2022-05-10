@@ -278,6 +278,7 @@
 
 ## TypeScript 
 
+- [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [Luffos/rxn-units](https://github.com/Luffos/rxn-units) - Viewport units (vw, vh, vmin, vmax) + useUnits hook for React, React Native and Expo.
 - [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - Combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier
 - [bluelibs/bluelibs](https://github.com/bluelibs/bluelibs) - A collection of open-source software solutions designed for the modern web and enterprise scale.

@@ -52,6 +52,7 @@
 
 ## JavaScript 
 
+- [remshams/node-module-esm](https://github.com/remshams/node-module-esm) - Example repository for rollup based, esm enabled node modules
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [artradeapp/Artrade-base-smart-contract](https://github.com/artradeapp/Artrade-base-smart-contract) - Artrade : The first social network for the NFT market !
 - [jaredpalmer/github-repos](https://github.com/jaredpalmer/github-repos) - Microservice for `jaredpalmer.com`

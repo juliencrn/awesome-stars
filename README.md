@@ -52,6 +52,7 @@
 
 ## JavaScript 
 
+- [6eer/uniswap-sushiswap-arbitrage-bot](https://github.com/6eer/uniswap-sushiswap-arbitrage-bot) - Two bots written in JS that uses flashswaps and normal swaps to arbitrage Uniswap. Includes an automated demostration.
 - [remshams/node-module-esm](https://github.com/remshams/node-module-esm) - Example repository for rollup based, esm enabled node modules
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [artradeapp/Artrade-base-smart-contract](https://github.com/artradeapp/Artrade-base-smart-contract) - Artrade : The first social network for the NFT market !
@@ -199,6 +200,7 @@
 
 ## Python 
 
+- [ccyanxyz/uniswap-arbitrage-analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis) - Uniswap arbitrage problem analysis
 - [stevencoveta/solidity_exercices](https://github.com/stevencoveta/solidity_exercices) - 
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [ultrabug/py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper written in python
@@ -263,6 +265,7 @@
 
 ## Solidity 
 
+- [nicknovoa03/aave-flashloan-v2](https://github.com/nicknovoa03/aave-flashloan-v2) - 
 - [1inch/1inchProtocol](https://github.com/1inch/1inchProtocol) - 1inch Protocol – fully on-chain DeFi aggregation protocol
 - [t4sk/defi-by-example](https://github.com/t4sk/defi-by-example) - 
 - [1001-digital/erc721-extensions](https://github.com/1001-digital/erc721-extensions) - A set of composable extension contracts for the OpenZeppelin ERC721 base contracts.
@@ -287,7 +290,7 @@
 - [ducktordanny/jsx-portfolio](https://github.com/ducktordanny/jsx-portfolio) - Portolio what styled like JSX.
 - [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates images and metadata files and packs them into IPFS CAR files, all from provided PNG layers.
 - [Lindeneg/generate-next-links](https://github.com/Lindeneg/generate-next-links) - Generate typescript enum containing paths to nextjs pages
-- [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web browser that's built for scraping.
+- [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web scraper that's nearly impossible to block (v1)
 - [ElrondNetwork/dapp-core](https://github.com/ElrondNetwork/dapp-core) - 
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access

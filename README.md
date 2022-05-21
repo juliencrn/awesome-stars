@@ -52,6 +52,7 @@
 
 ## JavaScript 
 
+- [maticnetwork/polygon-token-list](https://github.com/maticnetwork/polygon-token-list) - 
 - [6eer/uniswap-sushiswap-arbitrage-bot](https://github.com/6eer/uniswap-sushiswap-arbitrage-bot) - Two bots written in JS that uses flashswaps and normal swaps to arbitrage Uniswap. Includes an automated demostration.
 - [remshams/node-module-esm](https://github.com/remshams/node-module-esm) - Example repository for rollup based, esm enabled node modules
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.

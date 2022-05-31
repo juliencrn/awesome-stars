@@ -95,6 +95,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [kmadorin/flashbot](https://github.com/kmadorin/flashbot) - 
 - [Cykelero/tasklemon](https://github.com/Cykelero/tasklemon) - Painless automation in JavaScript.
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -282,6 +283,7 @@
 
 ## TypeScript 
 
+- [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [pomber/use-spring](https://github.com/pomber/use-spring) - Hooke's law hook
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [Luffos/rxn-units](https://github.com/Luffos/rxn-units) - Viewport units (vw, vh, vmin, vmax) + useUnits hook for React, React Native and Expo.
@@ -336,7 +338,6 @@
 - [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [patrickgodinho/shiftapp](https://github.com/patrickgodinho/shiftapp) - A starter app using react-native + redux + firebase

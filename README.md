@@ -294,7 +294,7 @@
 - [ducktordanny/jsx-portfolio](https://github.com/ducktordanny/jsx-portfolio) - Portolio what styled like JSX.
 - [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates images and metadata files, packs them into IPFS CAR files, and uploads them using nft.storage. All from provided PNG layers.
 - [Lindeneg/generate-next-links](https://github.com/Lindeneg/generate-next-links) - Generate typescript enum containing paths to nextjs pages
-- [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web scraper that's nearly impossible to block (v1)
+- [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web scraper that's nearly impossible to block - now called @ulixee/hero
 - [ElrondNetwork/dapp-core](https://github.com/ElrondNetwork/dapp-core) - 
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access

@@ -287,7 +287,7 @@
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [pomber/use-spring](https://github.com/pomber/use-spring) - Hooke's law hook
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
-- [Luffos/rxn-units](https://github.com/Luffos/rxn-units) - Viewport units (vw, vh, vmin, vmax) + useUnits hook for React, React Native and Expo.
+- [Luffos/rxn-units](https://github.com/Luffos/rxn-units) - 📐 Viewport units (vw, vh, vmin, vmax, percentage) + useUnits hook for React, React Native and Expo.
 - [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - Combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier
 - [bluelibs/bluelibs](https://github.com/bluelibs/bluelibs) - A collection of open-source software solutions designed for the modern web and enterprise scale.
 - [arthurdenner/use-lax](https://github.com/arthurdenner/use-lax) - React hook to use with lax.js

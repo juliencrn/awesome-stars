@@ -211,6 +211,7 @@
 
 ## Rust 
 
+- [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
 - [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [ddimaria/rust-actix-example](https://github.com/ddimaria/rust-actix-example) - Example Actix 2.x REST application implementing many features

@@ -103,7 +103,7 @@
 - [dappuniversity/starter_kit](https://github.com/dappuniversity/starter_kit) - Start building full stack dApps fast with this starter kit!
 - [SilentCicero/react-dapp-boilerplate](https://github.com/SilentCicero/react-dapp-boilerplate) - A highly standardized and optimized react dApp boilerplate.
 - [hackingbeauty/react-dapp-boilerplate](https://github.com/hackingbeauty/react-dapp-boilerplate) - A Truffle box with a superior React UI foundation for Ethereum Smart Contracts
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2022)
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [YannickDot/console.image](https://github.com/YannickDot/console.image) - A nice snippet to log images in chrome console 🌈
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!

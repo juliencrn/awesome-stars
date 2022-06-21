@@ -145,6 +145,7 @@
 
 ## Jupyter Notebook 
 
+- [yhilpisch/py4at](https://github.com/yhilpisch/py4at) - Jupyter Notebooks and code for the book Python for Algorithmic Trading (O'Reilly) by Yves Hilpisch.
 - [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) - 
 
 ## Lua 
@@ -202,6 +203,7 @@
 
 ## Python 
 
+- [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [ccyanxyz/uniswap-arbitrage-analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis) - Uniswap arbitrage problem analysis
 - [stevencoveta/solidity_exercices](https://github.com/stevencoveta/solidity_exercices) - 
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text

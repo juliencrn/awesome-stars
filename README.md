@@ -52,6 +52,7 @@
 
 ## JavaScript 
 
+- [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project
 - [mike182uk/timestring](https://github.com/mike182uk/timestring) - Parse a human readable time string into a time based value
 - [maticnetwork/polygon-token-list](https://github.com/maticnetwork/polygon-token-list) - 
 - [6eer/uniswap-sushiswap-arbitrage-bot](https://github.com/6eer/uniswap-sushiswap-arbitrage-bot) - Two bots written in JS that uses flashswaps and normal swaps to arbitrage Uniswap. Includes an automated demostration.
@@ -213,6 +214,7 @@
 
 ## Rust 
 
+- [KILTprotocol/kilt-node](https://github.com/KILTprotocol/kilt-node) - KILT blockchain node
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
 - [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
@@ -288,6 +290,7 @@
 
 ## TypeScript 
 
+- [BTE-Trusted-Entity/sporran-extension](https://github.com/BTE-Trusted-Entity/sporran-extension) - KILT browser extension, to manage accounts and send / receive tokens.
 - [polkadot-js/extension](https://github.com/polkadot-js/extension) - Simple browser extension for managing Polkadot and Substrate network accounts in a browser. Allows the signing of extrinsics using these accounts. Also provides a simple interface for compliant extens
 - [TrueFiEng/useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 - [pomber/use-spring](https://github.com/pomber/use-spring) - Hooke's law hook

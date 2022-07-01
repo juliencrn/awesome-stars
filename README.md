@@ -197,7 +197,7 @@
 - [trouble/react-wp-rest](https://github.com/trouble/react-wp-rest) - A boilerplate for pairing the WP Rest API with a server-rendered React app
 - [wordplate/plate](https://github.com/wordplate/plate) - A theme support plugin for WordPlate
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
-- [wordplate/wordplate](https://github.com/wordplate/wordplate) - WordPlate is a wrapper around WordPress. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
+- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
 - [markjaquith/WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository. I use this as a base when creating a new repo.
 - [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) - [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
 - [akhomy/docker-compose-lamp](https://github.com/akhomy/docker-compose-lamp) - Docker Compose LAMP stack
@@ -296,7 +296,7 @@
 - [pomber/use-spring](https://github.com/pomber/use-spring) - Hooke's law hook
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [Luffos/rxn-units](https://github.com/Luffos/rxn-units) - 📐 Viewport units (vw, vh, vmin, vmax, percentage) + useUnits hook for React, React Native and Expo.
-- [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - Ethereum development template which combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier
+- [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - Hardhat-based template for developing Solidity smart contracts
 - [bluelibs/bluelibs](https://github.com/bluelibs/bluelibs) - A collection of open-source software solutions designed for the modern web and enterprise scale.
 - [arthurdenner/use-lax](https://github.com/arthurdenner/use-lax) - React hook to use with lax.js
 - [ducktordanny/jsx-portfolio](https://github.com/ducktordanny/jsx-portfolio) - Portolio what styled like JSX.

@@ -214,6 +214,7 @@
 
 ## Rust 
 
+- [substrate-developer-hub/substrate-how-to-guides](https://github.com/substrate-developer-hub/substrate-how-to-guides) - Taking the best of Substrate Recipes and applying them to a new framework for structuring a collection of "how-to guides".
 - [KILTprotocol/kilt-node](https://github.com/KILTprotocol/kilt-node) - KILT blockchain node
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.

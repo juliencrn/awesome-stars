@@ -212,6 +212,7 @@
 
 ## Rust 
 
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [hercules-network/asterism](https://github.com/hercules-network/asterism) - 
 - [substrate-developer-hub/substrate-how-to-guides](https://github.com/substrate-developer-hub/substrate-how-to-guides) - Taking the best of Substrate Recipes and applying them to a new framework for structuring a collection of "how-to guides".
 - [KILTprotocol/kilt-node](https://github.com/KILTprotocol/kilt-node) - KILT blockchain node

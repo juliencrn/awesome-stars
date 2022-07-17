@@ -298,7 +298,7 @@
 - [pomber/use-spring](https://github.com/pomber/use-spring) - Hooke's law hook
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [Luffos/rxn-units](https://github.com/Luffos/rxn-units) - 📐 Viewport units (vw, vh, vmin, vmax, percentage) + useUnits hook for React, React Native and Expo.
-- [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - Hardhat-based template for developing Solidity smart contracts
+- [paulrberg/hardhat-template](https://github.com/paulrberg/hardhat-template) - Hardhat-based template for developing Solidity smart contracts
 - [bluelibs/bluelibs](https://github.com/bluelibs/bluelibs) - A collection of open-source software solutions designed for the modern web and enterprise scale.
 - [arthurdenner/use-lax](https://github.com/arthurdenner/use-lax) - React hook to use with lax.js
 - [ducktordanny/jsx-portfolio](https://github.com/ducktordanny/jsx-portfolio) - Portolio what styled like JSX.

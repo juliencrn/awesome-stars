@@ -212,6 +212,7 @@
 
 ## Rust 
 
+- [AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala) - Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [hercules-network/asterism](https://github.com/hercules-network/asterism) - 
 - [substrate-developer-hub/substrate-how-to-guides](https://github.com/substrate-developer-hub/substrate-how-to-guides) - Taking the best of Substrate Recipes and applying them to a new framework for structuring a collection of "how-to guides".

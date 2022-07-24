@@ -202,6 +202,7 @@
 
 ## Python 
 
+- [binance/binance-connector-python](https://github.com/binance/binance-connector-python) - a simple connector to Binance Public API
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [ccyanxyz/uniswap-arbitrage-analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis) - Uniswap arbitrage problem analysis
 - [stevencoveta/solidity_exercices](https://github.com/stevencoveta/solidity_exercices) - 

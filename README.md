@@ -22,7 +22,7 @@
 - [Solidity](#solidity)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## C 
@@ -374,7 +374,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 
-## Vim script 
+## Vim Script 
 
 - [mannuelf/dotvimrc](https://github.com/mannuelf/dotvimrc) - My vimrc file, so we can take it anywhere
 - [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - A Vim plugin which saves files to disk automatically.

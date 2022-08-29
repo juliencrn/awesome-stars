@@ -52,6 +52,7 @@
 
 ## JavaScript 
 
+- [danburzo/hred](https://github.com/danburzo/hred) - Reduce HTML (and XML) to JSON from the command line.
 - [mike182uk/timestring](https://github.com/mike182uk/timestring) - Parse a human readable time string into a time based value
 - [maticnetwork/polygon-token-list](https://github.com/maticnetwork/polygon-token-list) - 
 - [6eer/uniswap-sushiswap-arbitrage-bot](https://github.com/6eer/uniswap-sushiswap-arbitrage-bot) - Two bots written in JS that uses flashswaps and normal swaps to arbitrage Uniswap. Includes an automated demostration.

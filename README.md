@@ -386,7 +386,7 @@
 
 ## Vue 
 
-- [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Off-chain gasless multi-governance client. Join us on Discord https://discord.gg/snapshot
+- [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Interface for Snapshot. Join us on Discord https://discord.gg/snapshot
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
 

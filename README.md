@@ -303,6 +303,7 @@
 
 ## TypeScript 
 
+- [AstarNetwork/astar.js](https://github.com/AstarNetwork/astar.js) - Astar network Typescript SDK
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project
 - [BTE-Trusted-Entity/sporran-extension](https://github.com/BTE-Trusted-Entity/sporran-extension) - KILT browser extension, to manage accounts and send / receive tokens.

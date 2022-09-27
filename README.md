@@ -361,7 +361,7 @@
 - [kitze/react-hanger](https://github.com/kitze/react-hanger) - A collection of useful React hooks
 - [HQ20/contracts](https://github.com/HQ20/contracts) - A set of reusable smart-contracts
 - [react-restart/hooks](https://github.com/react-restart/hooks) - A set of utility and general-purpose React hooks.
-- [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+- [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.

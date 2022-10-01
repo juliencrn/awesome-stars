@@ -222,6 +222,9 @@
 
 ## Rust 
 
+- [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
+- [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
@@ -306,6 +309,7 @@
 
 ## TypeScript 
 
+- [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots
 - [AstarNetwork/astar.js](https://github.com/AstarNetwork/astar.js) - Astar network Typescript SDK
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project

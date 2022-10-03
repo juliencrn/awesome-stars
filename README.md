@@ -209,6 +209,7 @@
 
 ## Python 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
 - [hackingthemarkets/supertrend-crypto-bot](https://github.com/hackingthemarkets/supertrend-crypto-bot) - supertrend bot using python, pandas, and ccxt
 - [binance/binance-connector-python](https://github.com/binance/binance-connector-python) - a simple connector to Binance Public API
@@ -309,6 +310,7 @@
 
 ## TypeScript 
 
+- [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots
 - [AstarNetwork/astar.js](https://github.com/AstarNetwork/astar.js) - Astar network Typescript SDK
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.

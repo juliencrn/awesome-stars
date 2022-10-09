@@ -310,6 +310,7 @@
 
 ## TypeScript 
 
+- [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots
 - [AstarNetwork/astar.js](https://github.com/AstarNetwork/astar.js) - Astar network Typescript SDK

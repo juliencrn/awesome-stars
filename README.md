@@ -57,7 +57,7 @@
 ## JavaScript 
 
 - [panzerdp/voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
-- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - A next generation decentralised Ethereum proof of stake network and pool, currently in beta and built to be compatible with Ethereum 2.0 and the Beacon Chain.
+- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum liquid staking protocol.
 - [danburzo/hred](https://github.com/danburzo/hred) - Reduce HTML (and XML) to JSON from the command line.
 - [mike182uk/timestring](https://github.com/mike182uk/timestring) - Parse a human readable time string into a time based value
 - [maticnetwork/polygon-token-list](https://github.com/maticnetwork/polygon-token-list) - 

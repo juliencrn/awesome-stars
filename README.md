@@ -313,6 +313,7 @@
 
 ## TypeScript 
 
+- [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots

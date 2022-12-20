@@ -409,7 +409,7 @@
 
 ## Vue 
 
-- [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Interface for Snapshot. Join us on Discord https://discord.gg/snapshot
+- [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Interface for Snapshot. Join us on Discord http://discord.snapshot.org
 
 
 ## License

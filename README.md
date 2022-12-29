@@ -104,7 +104,6 @@
 - [Cykelero/tasklemon](https://github.com/Cykelero/tasklemon) - Painless automation in JavaScript.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [dappuniversity/defi_tutorial](https://github.com/dappuniversity/defi_tutorial) - 
 - [dappuniversity/starter_kit](https://github.com/dappuniversity/starter_kit) - Start building full stack dApps fast with this starter kit!
@@ -379,6 +378,7 @@
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [patrickgodinho/shiftapp](https://github.com/patrickgodinho/shiftapp) - A starter app using react-native + redux + firebase
 - [SaimirKapaj/gatsby-redux-toolkit-typescript-starter](https://github.com/SaimirKapaj/gatsby-redux-toolkit-typescript-starter) - Gatsby Redux-Toolkit Typescript starter

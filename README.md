@@ -45,7 +45,7 @@
 ## Go 
 
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
-- [ElrondNetwork/elrond-go](https://github.com/ElrondNetwork/elrond-go) - ⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.
+- [multiversx/mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.
 - [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
 
 ## HTML 
@@ -250,7 +250,7 @@
 - [nash-io/openlimits](https://github.com/nash-io/openlimits) - A Rust high performance cryptocurrency trading API with support for multiple exchanges and language wrappers.
 - [ElvenTools/elven-nft-minter-sc](https://github.com/ElvenTools/elven-nft-minter-sc) - Elven Tools SC - Smart Contract for launching NFTs collections on the MultiversX (previously Elrond) blockchain
 - [evoxmusic/twitter-clone-rust](https://github.com/evoxmusic/twitter-clone-rust) - Twitter clone in Rust
-- [ElrondNetwork/elrond-wasm-rs](https://github.com/ElrondNetwork/elrond-wasm-rs) - 🦀 Rust smart contract library designed for Elrond's Wasm VM. Also provides a debugging mode with mocks.
+- [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs) - 🦀 Rust smart contract library designed for Elrond's Wasm VM. Also provides a debugging mode with mocks.
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth
@@ -340,7 +340,7 @@
 - [Gumichocopengin8/crate-trends](https://github.com/Gumichocopengin8/crate-trends) - 🦀Visualize Rust Package: Crates comparison website
 - [alexreardon/tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A tiny invariant function
 - [ElrondNetwork/starter-dapp](https://github.com/ElrondNetwork/starter-dapp) - 
-- [ElrondNetwork/elrond-ide-vscode](https://github.com/ElrondNetwork/elrond-ide-vscode) - 💻 VS Code extension for developing Elrond Smart Contracts - Rust, C and C++.
+- [multiversx/mx-ide-vscode](https://github.com/multiversx/mx-ide-vscode) - 💻 VS Code extension for developing Elrond Smart Contracts - Rust, C and C++.
 - [KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao) - Monorepo for the official KlimaDAO site, dApp, components and design system.
 - [0x9e2fa22b/pancake-trading-bot](https://github.com/0x9e2fa22b/pancake-trading-bot) - A simple mempool sniper bot 🤖
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps

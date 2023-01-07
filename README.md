@@ -50,7 +50,7 @@
 ## Go 
 
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
-- [multiversx/mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.
+- [multiversx/mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
 - [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
 
 ## HTML 
@@ -255,7 +255,7 @@
 - [nash-io/openlimits](https://github.com/nash-io/openlimits) - A Rust high performance cryptocurrency trading API with support for multiple exchanges and language wrappers.
 - [ElvenTools/elven-nft-minter-sc](https://github.com/ElvenTools/elven-nft-minter-sc) - Elven Tools SC - Smart Contract for launching NFTs collections on the MultiversX (previously Elrond) blockchain
 - [evoxmusic/twitter-clone-rust](https://github.com/evoxmusic/twitter-clone-rust) - Twitter clone in Rust
-- [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs) - 🦀 Rust smart contract library designed for Elrond's Wasm VM. Also provides a debugging mode with mocks.
+- [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs) - 🦀 Rust smart contract library designed for the MultiversX blockchain VM. Also provides a debugging mode with mocks.
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth
@@ -317,6 +317,7 @@
 
 ## TypeScript 
 
+- [sanity-io/nextjs-blog-cms-sanity-v3](https://github.com/sanity-io/nextjs-blog-cms-sanity-v3) - A Next.js Blog with a Native Authoring Experience
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
@@ -337,15 +338,15 @@
 - [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates images and metadata files, packs them into IPFS CAR files, and uploads them using nft.storage. All from provided PNG layers.
 - [Lindeneg/generate-next-links](https://github.com/Lindeneg/generate-next-links) - Generate typescript enum containing paths to nextjs pages
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web scraper that's nearly impossible to block - now called @ulixee/hero
-- [ElrondNetwork/dapp-core](https://github.com/ElrondNetwork/dapp-core) - 
+- [multiversx/mx-sdk-dapp](https://github.com/multiversx/mx-sdk-dapp) - A library that holds the core functional logic of a dapp on the MultiversX
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) - 10-color Palette Generator and API for Tailwind CSS
 - [Gumichocopengin8/crate-trends](https://github.com/Gumichocopengin8/crate-trends) - 🦀Visualize Rust Package: Crates comparison website
 - [alexreardon/tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A tiny invariant function
-- [ElrondNetwork/starter-dapp](https://github.com/ElrondNetwork/starter-dapp) - 
-- [multiversx/mx-ide-vscode](https://github.com/multiversx/mx-ide-vscode) - 💻 VS Code extension for developing Elrond Smart Contracts - Rust, C and C++.
+- [multiversx/mx-deprecated-starter-dapp](https://github.com/multiversx/mx-deprecated-starter-dapp) - 
+- [multiversx/mx-ide-vscode](https://github.com/multiversx/mx-ide-vscode) - 💻 VS Code extension for developing MultiversX Smart Contracts - Rust, C and C++.
 - [KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao) - Monorepo for the official KlimaDAO site, dApp, components and design system.
 - [0x9e2fa22b/pancake-trading-bot](https://github.com/0x9e2fa22b/pancake-trading-bot) - A simple mempool sniper bot 🤖
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps

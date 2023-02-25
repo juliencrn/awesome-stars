@@ -97,7 +97,7 @@
 - [kevin940726/remark-codesandbox](https://github.com/kevin940726/remark-codesandbox) - 🎩  Create CodeSandbox directly from code blocks
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get a unified user avatar from multiple providers.
-- [sapegin/washingcode-book](https://github.com/sapegin/washingcode-book) - Washing your code: write once, read seven times
+- [sapegin/washingcode-book](https://github.com/sapegin/washingcode-book) - 📖 Book on clean code for frontend developers
 - [Raathigesh/hooks.guide](https://github.com/Raathigesh/hooks.guide) - 🏗 Collection of React hooks curated by the community
 - [all-contributors/app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
 - [ebradyjobory/finance.js](https://github.com/ebradyjobory/finance.js) - A JavaScript library for common financial calculations

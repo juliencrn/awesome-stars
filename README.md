@@ -64,7 +64,7 @@
 - [javierbrea/eslint-plugin-boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) - Eslint plugin checking architecture boundaries between elements
 - [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [panzerdp/voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
-- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum liquid staking protocol.
+- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum Liquid Staking Protocol.
 - [danburzo/hred](https://github.com/danburzo/hred) - Reduce HTML (and XML) to JSON from the command line.
 - [mike182uk/timestring](https://github.com/mike182uk/timestring) - Parse a human readable time string into a time based value
 - [maticnetwork/polygon-token-list](https://github.com/maticnetwork/polygon-token-list) - 

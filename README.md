@@ -323,6 +323,7 @@
 
 ## TypeScript 
 
+- [CodingDoug/min-functions-cold-start](https://github.com/CodingDoug/min-functions-cold-start) - Scaffolding for Cloud Functions deployed with the Firebase CLI that minimize cold starts by using TypeScript async imports
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [sanity-io/nextjs-blog-cms-sanity-v3](https://github.com/sanity-io/nextjs-blog-cms-sanity-v3) - A Next.js Blog with a Native Authoring Experience

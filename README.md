@@ -139,7 +139,7 @@
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 - [GatsbyCentral/gatsby-starter-wordpress](https://github.com/GatsbyCentral/gatsby-starter-wordpress) - LOOKING FOR MAINTAINER  - - - A GatsbyJS starter template that leverages the WordPress API, ACF and more
-- [netlify-templates/gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) - Example gatsby + netlify cms project
+- [decaporg/gatsby-starter-netlify-cms](https://github.com/decaporg/gatsby-starter-netlify-cms) - Example gatsby + netlify cms project
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [jh3y/gulp-boilerplate](https://github.com/jh3y/gulp-boilerplate) - a simple gulp boilerplate
 - [naomiHauret/js-stack-from-scratch](https://github.com/naomiHauret/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.

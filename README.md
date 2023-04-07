@@ -200,7 +200,6 @@
 
 ## PHP 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [jameelmoses/acf-icomoon](https://github.com/jameelmoses/acf-icomoon) - This adds an IcoMoon icon select field to ACF.
 - [lukethacoder/wp-webhook-netlify-deploy](https://github.com/lukethacoder/wp-webhook-netlify-deploy) - 🚢 WP Plugin that adds functionality to easily send Netlify Webhook requests
 - [justinwhall/wp-buildhook-deploy](https://github.com/justinwhall/wp-buildhook-deploy) - WordPress plugin to trigger build hooks and deploy your static site.
@@ -223,6 +222,7 @@
 - [binance/binance-connector-python](https://github.com/binance/binance-connector-python) - a simple connector to Binance Public API
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [ccyanxyz/uniswap-arbitrage-analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis) - Uniswap arbitrage problem analysis
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [stevencoveta/solidity_exercices](https://github.com/stevencoveta/solidity_exercices) - 
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [ultrabug/py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper written in python

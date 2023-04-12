@@ -64,7 +64,6 @@
 - [javierbrea/eslint-plugin-boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) - Eslint plugin checking architecture boundaries between elements
 - [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [panzerdp/voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
-- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum Liquid Staking Protocol.
 - [danburzo/hred](https://github.com/danburzo/hred) - Reduce HTML (and XML) to JSON from the command line.
 - [mike182uk/timestring](https://github.com/mike182uk/timestring) - Parse a human readable time string into a time based value
 - [maticnetwork/polygon-token-list](https://github.com/maticnetwork/polygon-token-list) - 
@@ -139,7 +138,7 @@
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 - [GatsbyCentral/gatsby-starter-wordpress](https://github.com/GatsbyCentral/gatsby-starter-wordpress) - LOOKING FOR MAINTAINER  - - - A GatsbyJS starter template that leverages the WordPress API, ACF and more
-- [decaporg/gatsby-starter-netlify-cms](https://github.com/decaporg/gatsby-starter-netlify-cms) - Example gatsby + netlify cms project
+- [decaporg/gatsby-starter-decap-cms](https://github.com/decaporg/gatsby-starter-decap-cms) - Example Gatsby + Decap CMS project
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [jh3y/gulp-boilerplate](https://github.com/jh3y/gulp-boilerplate) - a simple gulp boilerplate
 - [naomiHauret/js-stack-from-scratch](https://github.com/naomiHauret/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
@@ -307,6 +306,7 @@
 
 ## Solidity 
 
+- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum Liquid Staking Protocol.
 - [nicknovoa03/aave-flashloan-v2](https://github.com/nicknovoa03/aave-flashloan-v2) - 
 - [1inch/1inchProtocol](https://github.com/1inch/1inchProtocol) - 1inch Protocol – fully on-chain DeFi aggregation protocol
 - [stakewithus/defi-by-example](https://github.com/stakewithus/defi-by-example) - 

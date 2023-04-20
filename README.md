@@ -9,6 +9,7 @@
 - [C](#c)
 - [CSS](#css)
 - [Cython](#cython)
+- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
@@ -46,6 +47,10 @@
 ## Cython 
 
 - [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
+
+## Dockerfile 
+
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 
 ## Go 
 
@@ -114,7 +119,6 @@
 - [dappuniversity/starter_kit](https://github.com/dappuniversity/starter_kit) - Start building full stack dApps fast with this starter kit!
 - [SilentCicero/react-dapp-boilerplate](https://github.com/SilentCicero/react-dapp-boilerplate) - A highly standardized and optimized react dApp boilerplate.
 - [hackingbeauty/react-dapp-boilerplate](https://github.com/hackingbeauty/react-dapp-boilerplate) - A Truffle box with a superior React UI foundation for Ethereum Smart Contracts
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [YannickDot/console.image](https://github.com/YannickDot/console.image) - A nice snippet to log images in chrome console 🌈
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -174,7 +178,7 @@
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [dabit3/ipfs-pinata-example](https://github.com/dabit3/ipfs-pinata-example) - Example function showing how to pin a file to Pinata from a JavaScript client
 - [mnedelchev-vn/pancakeswap-sniper-bot](https://github.com/mnedelchev-vn/pancakeswap-sniper-bot) - A free NodeJS sniper bot built to work with PancakeSwap: Router V2.
-- [dalisoft/awesome-hosting](https://github.com/dalisoft/awesome-hosting) - List of awesome hosting
+- [dalisoft/awesome-hosting](https://github.com/dalisoft/awesome-hosting) - List of awesome hosting sorted by minimal plan price
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝

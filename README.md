@@ -327,6 +327,8 @@
 
 ## TypeScript 
 
+- [memoriaXII/create-web3-turbo](https://github.com/memoriaXII/create-web3-turbo) - ⚡ A monorepo starter kit for building blockchain-based applications with ease
+- [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum
 - [CodingDoug/min-functions-cold-start](https://github.com/CodingDoug/min-functions-cold-start) - Scaffolding for Cloud Functions deployed with the Firebase CLI that minimize cold starts by using TypeScript async imports
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.

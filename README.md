@@ -327,6 +327,7 @@
 
 ## TypeScript 
 
+- [kourge/ts-brand](https://github.com/kourge/ts-brand) - Reusable type branding in TypeScript
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [memoriaXII/create-web3-turbo](https://github.com/memoriaXII/create-web3-turbo) - ⚡ A monorepo starter kit for building blockchain-based applications with ease
 - [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum

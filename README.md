@@ -228,6 +228,7 @@
 
 ## Rust 
 
+- [paradigmxyz/artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
 - [tesaguri/twitter-stream-rs](https://github.com/tesaguri/twitter-stream-rs) - A Rust library for listening on Twitter Streaming API.
 - [egg-mode-rs/egg-mode](https://github.com/egg-mode-rs/egg-mode) - a twitter api crate for rust
 - [legg/rustfi-demo](https://github.com/legg/rustfi-demo) - 
@@ -321,6 +322,7 @@
 
 ## TypeScript 
 
+- [wagmi-dev/abitype](https://github.com/wagmi-dev/abitype) - Strict TypeScript types for Ethereum ABIs
 - [kourge/ts-brand](https://github.com/kourge/ts-brand) - Reusable type branding in TypeScript
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [memoriaXII/create-web3-turbo](https://github.com/memoriaXII/create-web3-turbo) - ⚡ A monorepo starter kit for building blockchain-based applications with ease

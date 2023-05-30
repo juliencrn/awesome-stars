@@ -322,6 +322,8 @@
 
 ## TypeScript 
 
+- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [xnimorz/use-debounce](https://github.com/xnimorz/use-debounce) - A debounce hook for react
 - [wagmi-dev/abitype](https://github.com/wagmi-dev/abitype) - Strict TypeScript types for Ethereum ABIs
 - [kourge/ts-brand](https://github.com/kourge/ts-brand) - Reusable type branding in TypeScript

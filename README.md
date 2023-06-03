@@ -322,6 +322,8 @@
 
 ## TypeScript 
 
+- [adriengibrat/ts-custom-error](https://github.com/adriengibrat/ts-custom-error) - Extend native Error to create custom errors
+- [patrickmichalina/typescript-monads](https://github.com/patrickmichalina/typescript-monads) - 📚Write safer TypeScript using Maybe, List, Result, and Either monads.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [xnimorz/use-debounce](https://github.com/xnimorz/use-debounce) - A debounce hook for react

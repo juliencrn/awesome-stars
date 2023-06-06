@@ -169,6 +169,7 @@
 
 ## Others 
 
+- [chobynleo/pancakeswap-frontend-hardhat-testnet](https://github.com/chobynleo/pancakeswap-frontend-hardhat-testnet) - Pancakeswap Front-end Configuration on Testnet
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [dabit3/ipfs-pinata-example](https://github.com/dabit3/ipfs-pinata-example) - Example function showing how to pin a file to Pinata from a JavaScript client
 - [mnedelchev-vn/pancakeswap-sniper-bot](https://github.com/mnedelchev-vn/pancakeswap-sniper-bot) - A free NodeJS sniper bot built to work with PancakeSwap: Router V2.

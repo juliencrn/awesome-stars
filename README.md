@@ -307,6 +307,7 @@
 
 ## Solidity 
 
+- [paco0x/amm-arbitrageur](https://github.com/paco0x/amm-arbitrageur) - An arbitrage bot between Uniswap AMMs
 - [nicknovoa03/aave-flashloan-v2](https://github.com/nicknovoa03/aave-flashloan-v2) - 
 - [1inch/1inchProtocol](https://github.com/1inch/1inchProtocol) - 1inch Protocol – fully on-chain DeFi aggregation protocol
 - [stakewithus/defi-by-example](https://github.com/stakewithus/defi-by-example) - 

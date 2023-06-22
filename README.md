@@ -14,6 +14,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
@@ -165,6 +166,11 @@
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [Chewie/dotfiles](https://github.com/Chewie/dotfiles) - A repository containing my configuration files
 
+## MDX 
+
+- [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+
 ## Nunjucks 
 
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
@@ -276,7 +282,6 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -355,12 +360,11 @@
 - [PaulRBerg/hardhat-template](https://github.com/PaulRBerg/hardhat-template) - Hardhat-based template for developing Solidity smart contracts
 - [bluelibs/bluelibs](https://github.com/bluelibs/bluelibs) - A collection of open-source software solutions designed for the modern web and enterprise scale.
 - [arthurdenner/use-lax](https://github.com/arthurdenner/use-lax) - React hook to use with lax.js
-- [ducktordanny/jsx-portfolio](https://github.com/ducktordanny/jsx-portfolio) - JSX like portfolio 🚀
+- [ducktordanny/portfolio](https://github.com/ducktordanny/portfolio) - My portfolio pages, one WIP and one JSX-styled combined into a monorepo. 🚀
 - [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates images and metadata files, packs them into IPFS CAR files, and uploads them using nft.storage. All from provided PNG layers.
 - [Lindeneg/generate-next-links](https://github.com/Lindeneg/generate-next-links) - (Not Maintained) Generate typescript enum containing paths to nextjs pages
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web scraper that's nearly impossible to block - now called @ulixee/hero
 - [multiversx/mx-sdk-dapp](https://github.com/multiversx/mx-sdk-dapp) - A library that holds the core functional logic of a dapp on the MultiversX
-- [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) - 10-color Palette Generator and API for Tailwind CSS

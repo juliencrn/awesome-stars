@@ -9,6 +9,7 @@
 - [CSS](#css)
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
+- [F#](#f#)
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
@@ -47,6 +48,10 @@
 ## Dockerfile 
 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
+
+## F# # 
+
+- [joastbg/fsharp-for-quantitative-finance](https://github.com/joastbg/fsharp-for-quantitative-finance) - The example source code for the book F# for Quantitative Finance
 
 ## Go 
 
@@ -162,6 +167,7 @@
 
 ## Lua 
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [Chewie/dotfiles](https://github.com/Chewie/dotfiles) - A repository containing my configuration files
@@ -177,6 +183,7 @@
 
 ## Others 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [chobynleo/pancakeswap-frontend-hardhat-testnet](https://github.com/chobynleo/pancakeswap-frontend-hardhat-testnet) - Pancakeswap Front-end Configuration on Testnet
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [dabit3/ipfs-pinata-example](https://github.com/dabit3/ipfs-pinata-example) - Example function showing how to pin a file to Pinata from a JavaScript client
@@ -237,6 +244,7 @@
 
 ## Rust 
 
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [paradigmxyz/artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
 - [tesaguri/twitter-stream-rs](https://github.com/tesaguri/twitter-stream-rs) - A Rust library for listening on Twitter Streaming API.
 - [egg-mode-rs/egg-mode](https://github.com/egg-mode-rs/egg-mode) - a twitter api crate for rust

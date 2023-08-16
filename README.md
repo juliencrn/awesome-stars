@@ -51,6 +51,7 @@
 
 ## F# # 
 
+- [johanastborg/fsharp-for-quantitative-finance](https://github.com/johanastborg/fsharp-for-quantitative-finance) - The example source code for the book F# for Quantitative Finance
 - [joastbg/fsharp-for-quantitative-finance](https://github.com/joastbg/fsharp-for-quantitative-finance) - The example source code for the book F# for Quantitative Finance
 
 ## Go 

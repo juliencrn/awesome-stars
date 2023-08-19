@@ -381,7 +381,7 @@
 - [multiversx/mx-deprecated-starter-dapp](https://github.com/multiversx/mx-deprecated-starter-dapp) - 
 - [multiversx/mx-ide-vscode](https://github.com/multiversx/mx-ide-vscode) - 💻 VS Code extension for developing MultiversX Smart Contracts - Rust, C and C++.
 - [KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao) - Monorepo for the official KlimaDAO site, dApp, components and design system.
-- [0x9e2fa22b/pancake-trading-bot](https://github.com/0x9e2fa22b/pancake-trading-bot) - A simple mempool sniper bot 🤖
+- [huyiya/pancake-trading-bot](https://github.com/huyiya/pancake-trading-bot) - A simple mempool sniper bot 🤖
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [Purii/react-use-scrollspy](https://github.com/Purii/react-use-scrollspy) - Flexible React Hook to automatically update navigation based on scroll position

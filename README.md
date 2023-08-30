@@ -137,7 +137,6 @@
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [robinmetral/33-concepts-js](https://github.com/robinmetral/33-concepts-js) - 📜 33 concepts que tout développeur JavaScript devrait connaître.
-- [LekoArts/gatsby-starter-prismic](https://github.com/LekoArts/gatsby-starter-prismic) - Get started with your Photography portfolio with Prismic.io & Gatsby
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [nijikokun/minami](https://github.com/nijikokun/minami) - 💅 Clean and minimal JSDoc 3 Template / Theme
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple

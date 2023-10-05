@@ -337,6 +337,7 @@
 
 ## TypeScript 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [Blindpupil/family-cookbook](https://github.com/Blindpupil/family-cookbook) - Showcase for domain driven architecture in the frontend
 - [adriengibrat/ts-custom-error](https://github.com/adriengibrat/ts-custom-error) - Extend native Error to create custom errors
 - [patrickmichalina/typescript-monads](https://github.com/patrickmichalina/typescript-monads) - 📚Write safer TypeScript using Maybe, List, Result, and Either monads.

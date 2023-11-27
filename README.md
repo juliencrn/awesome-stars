@@ -346,11 +346,11 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [xnimorz/use-debounce](https://github.com/xnimorz/use-debounce) - A debounce hook for react
-- [wagmi-dev/abitype](https://github.com/wagmi-dev/abitype) - Strict TypeScript types for Ethereum ABIs
+- [wevm/abitype](https://github.com/wevm/abitype) - Strict TypeScript types for Ethereum ABIs
 - [kourge/ts-brand](https://github.com/kourge/ts-brand) - Reusable type branding in TypeScript
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [memoriaXII/create-web3-turbo](https://github.com/memoriaXII/create-web3-turbo) - ⚡ A monorepo starter kit for building blockchain-based applications with ease
-- [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum
+- [wevm/wagmi](https://github.com/wevm/wagmi) - React Hooks for Ethereum
 - [CodingDoug/min-functions-cold-start](https://github.com/CodingDoug/min-functions-cold-start) - Scaffolding for Cloud Functions deployed with the Firebase CLI that minimize cold starts by using TypeScript async imports
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.

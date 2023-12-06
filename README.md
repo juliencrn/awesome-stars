@@ -337,6 +337,7 @@
 
 ## TypeScript 
 
+- [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [notiz-dev/nestjs-prisma-starter](https://github.com/notiz-dev/nestjs-prisma-starter) - Starter template for NestJS 😻 includes GraphQL with Prisma Client, Passport-JWT authentication, Swagger Api and Docker
 - [VincentJouanne/nest-clean-architecture](https://github.com/VincentJouanne/nest-clean-architecture) - 🏛️   Nest.js clean architecture example following some DDD principles with use-cases written in functionnal programming.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
@@ -403,7 +404,7 @@
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
 - [Uniswap/web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
-- [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol
+- [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
 - [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀

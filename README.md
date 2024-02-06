@@ -396,7 +396,7 @@
 - [Purii/react-use-scrollspy](https://github.com/Purii/react-use-scrollspy) - Flexible React Hook to automatically update navigation based on scroll position
 - [wellyshen/use-web-animations](https://github.com/wellyshen/use-web-animations) - 😎 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
-- [spectrexyz/use-nft](https://github.com/spectrexyz/use-nft) - 🍮 React hook to fetch metadata from any NFT.
+- [bpierre/use-nft](https://github.com/bpierre/use-nft) - 🍮 React hook to fetch metadata from any NFT.
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.

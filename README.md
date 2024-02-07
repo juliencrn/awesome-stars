@@ -68,6 +68,7 @@
 
 ## JavaScript 
 
+- [kentcdodds/eslint-config-kentcdodds](https://github.com/kentcdodds/eslint-config-kentcdodds) - ESLint configuration for projects that I do... Feel free to use this!
 - [javierbrea/eslint-plugin-boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) - Eslint plugin checking architecture boundaries between elements
 - [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [panzerdp/voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library

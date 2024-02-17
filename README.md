@@ -338,6 +338,7 @@
 
 ## TypeScript 
 
+- [AdilsonFuxe/auth-microservice](https://github.com/AdilsonFuxe/auth-microservice) - Authentication microservice built with Node.js that follows Clean Architecture + TDD + SOLID + DDD + functional programming principles
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.

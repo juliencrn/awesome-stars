@@ -244,6 +244,7 @@
 
 ## Rust 
 
+- [tmsdev82/rust-binance-technical-indicators-tutorial](https://github.com/tmsdev82/rust-binance-technical-indicators-tutorial) - 
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [paradigmxyz/artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
 - [tesaguri/twitter-stream-rs](https://github.com/tesaguri/twitter-stream-rs) - A Rust library for listening on Twitter Streaming API.

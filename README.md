@@ -340,6 +340,7 @@
 
 ## TypeScript 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - IndicatorTS - Stock technical indicators and strategies in TypeScript for browser and server programs.
 - [AdilsonFuxe/auth-microservice](https://github.com/AdilsonFuxe/auth-microservice) - Authentication microservice built with Node.js that follows Clean Architecture + TDD + SOLID + DDD + functional programming principles
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript

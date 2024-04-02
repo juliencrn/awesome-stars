@@ -340,6 +340,7 @@
 
 ## TypeScript 
 
+- [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - IndicatorTS - Stock technical indicators and strategies in TypeScript for browser and server programs.

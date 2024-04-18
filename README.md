@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C](#c)
 - [CSS](#css)
 - [Cython](#cython)
@@ -28,6 +29,10 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## Astro 
+
+- [mariohamann/bentogrid.js](https://github.com/mariohamann/bentogrid.js) - A smart library that automatically positions elements depending on their size in a grid to create responsive and beautiful layouts.
 
 ## C 
 

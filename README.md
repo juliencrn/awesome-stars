@@ -269,7 +269,7 @@
 - [substrate-developer-hub/substrate-how-to-guides](https://github.com/substrate-developer-hub/substrate-how-to-guides) - Taking the best of Substrate Recipes and applying them to a new framework for structuring a collection of "how-to guides".
 - [KILTprotocol/kilt-node](https://github.com/KILTprotocol/kilt-node) - KILT blockchain node
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
-- [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
+- [use-ink/ink](https://github.com/use-ink/ink) - Parity's ink! to write smart contracts.
 - [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft) - An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [ddimaria/rust-actix-example](https://github.com/ddimaria/rust-actix-example) - Example Actix 2.x REST application implementing many features

@@ -200,7 +200,7 @@
 - [dappuniversity/price-bot](https://github.com/dappuniversity/price-bot) - 
 - [dappuniversity/trading-bot](https://github.com/dappuniversity/trading-bot) - 
 - [protofire/blockchain-learning-path](https://github.com/protofire/blockchain-learning-path) - A suggested learning path for blockchain development
-- [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository
+- [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
 - [you-dont-need/You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops) - Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development

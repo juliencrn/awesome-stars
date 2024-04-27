@@ -91,7 +91,7 @@
 - [ProjectOpenSea/opensea-creatures](https://github.com/ProjectOpenSea/opensea-creatures) - Example non-fungible collectible, to demonstrate OpenSea integration
 - [jklepatch/eattheblocks](https://github.com/jklepatch/eattheblocks) - Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers
 - [ProjectOpenSea/opensea-erc1155](https://github.com/ProjectOpenSea/opensea-erc1155) - Example semi-fungible collectible, to demonstrate OpenSea integration for an ERC-1155 contract
-- [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - 😋 Free decentralized storage and bandwidth for NFTs on IPFS and Filecoin.
+- [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - 😋 NFT.Storage Classic (classic.nft.storage) offers free decentralized storage and bandwidth for NFTs on IPFS and Filecoin. April 2024 Update: Existing NFT.Storage Classic account holders can add data 
 - [yoongyy/pancakeswap-snipe-bot](https://github.com/yoongyy/pancakeswap-snipe-bot) - A bot that will snipe PancakeSwap pairs created and do a Auto buy on the token.
 - [vadimdemedes/tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) - 🦎 Use Tailwind CSS in React Native projects
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀

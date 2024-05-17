@@ -347,7 +347,7 @@
 
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages.
-- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - IndicatorTS - Stock technical indicators and strategies in TypeScript for browser and server programs.
 - [AdilsonFuxe/auth-microservice](https://github.com/AdilsonFuxe/auth-microservice) - Authentication microservice built with Node.js that follows Clean Architecture + TDD + SOLID + DDD + functional programming principles
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript

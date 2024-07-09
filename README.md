@@ -344,6 +344,7 @@
 
 ## TypeScript 
 
+- [timlrx/contentlayer2](https://github.com/timlrx/contentlayer2) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [pilcrowOnPaper/arctic](https://github.com/pilcrowOnPaper/arctic) - OAuth 2.0 clients for popular providers
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections

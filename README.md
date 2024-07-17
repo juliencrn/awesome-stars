@@ -372,7 +372,7 @@
 - [kourge/ts-brand](https://github.com/kourge/ts-brand) - Reusable type branding in TypeScript
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [memoriaXII/create-web3-turbo](https://github.com/memoriaXII/create-web3-turbo) - ⚡ A monorepo starter kit for building blockchain-based applications with ease
-- [wevm/wagmi](https://github.com/wevm/wagmi) - React Hooks for Ethereum
+- [wevm/wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps
 - [CodingDoug/min-functions-cold-start](https://github.com/CodingDoug/min-functions-cold-start) - Scaffolding for Cloud Functions deployed with the Firebase CLI that minimize cold starts by using TypeScript async imports
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.

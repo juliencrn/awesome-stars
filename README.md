@@ -265,7 +265,6 @@
 - [AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala) - Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [hercules-network/asterism](https://github.com/hercules-network/asterism) - 
-- [polkadot-developers/substrate-how-to-guides](https://github.com/polkadot-developers/substrate-how-to-guides) - Taking the best of Substrate Recipes and applying them to a new framework for structuring a collection of "how-to guides".
 - [KILTprotocol/kilt-node](https://github.com/KILTprotocol/kilt-node) - KILT blockchain node
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [use-ink/ink](https://github.com/use-ink/ink) - Polkadot's ink! to write smart contracts.

@@ -7,6 +7,7 @@
 
 - [Astro](#astro)
 - [C](#c)
+- [C++](#c++)
 - [CSS](#css)
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
@@ -37,6 +38,10 @@
 ## C 
 
 - [iciamyplant/Cub3d-MacOS](https://github.com/iciamyplant/Cub3d-MacOS) - This isn't my final project, it is the version for macOS but still with some mistakes
+
+## C++ 
+
+- [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
 
 ## CSS 
 
@@ -216,7 +221,6 @@
 
 ## PHP 
 
-- [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
 - [jameelmoses/acf-icomoon](https://github.com/jameelmoses/acf-icomoon) - This adds an IcoMoon icon select field to ACF.
 - [lukethacoder/wp-webhook-netlify-deploy](https://github.com/lukethacoder/wp-webhook-netlify-deploy) - 🚢 WP Plugin that adds functionality to easily send Netlify Webhook requests
 - [justinwhall/wp-buildhook-deploy](https://github.com/justinwhall/wp-buildhook-deploy) - WordPress plugin to trigger build hooks and deploy your static site.

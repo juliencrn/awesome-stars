@@ -459,7 +459,6 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [cstrnt/notion-api](https://github.com/cstrnt/notion-api) - Unofficial Notion.so API
-- [uidotdev/npm-trends](https://github.com/uidotdev/npm-trends) - NPM package comparison
 - [hmmhmmhm/svelte-template](https://github.com/hmmhmmhm/svelte-template) - 🚧  An easy-to-use Svelte template! (Svelte + Typescript + Parcel + Express) 2020
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.

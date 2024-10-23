@@ -160,7 +160,7 @@
 - [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 12 and MUI
 - [iaincollins/nextjs-starter](https://github.com/iaincollins/nextjs-starter) - A starter project for Next.js with authentication
 - [victor36max/keystone-next-example](https://github.com/victor36max/keystone-next-example) - Example app of integrating KeystoneJS & Next.js
-- [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banners for iOS and Android
+- [ain/smartbanner.js](https://github.com/ain/smartbanner.js) - Customisable smart app banner for iOS and Android
 - [wbkd/webpack-starter](https://github.com/wbkd/webpack-starter) - ✨ A lightweight foundation for your next webpack based frontend project.
 - [rock-solid/pwa-theme-woocommerce](https://github.com/rock-solid/pwa-theme-woocommerce) - E-commerce Progressive Web App Theme (React & Redux)
 - [thom4parisot/nodebook](https://github.com/thom4parisot/nodebook) - 📖 Livre publié aux Éditions Eyrolles • Première édition : Node.js v10 et npm v6.

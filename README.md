@@ -126,7 +126,6 @@
 - [kmadorin/flashbot](https://github.com/kmadorin/flashbot) - 
 - [Cykelero/tasklemon](https://github.com/Cykelero/tasklemon) - Painless automation in JavaScript.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [dappuniversity/defi_tutorial](https://github.com/dappuniversity/defi_tutorial) - 
 - [dappuniversity/starter_kit](https://github.com/dappuniversity/starter_kit) - Start building full stack dApps fast with this starter kit!
 - [SilentCicero/react-dapp-boilerplate](https://github.com/SilentCicero/react-dapp-boilerplate) - A highly standardized and optimized react dApp boilerplate.
@@ -139,7 +138,7 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [oleh-polishchuk/react-scroll-snap-points-slider](https://github.com/oleh-polishchuk/react-scroll-snap-points-slider) - React slider (use CSS Scroll Snap Points)
 - [snyk-labs/eslint-config-react-security](https://github.com/snyk-labs/eslint-config-react-security) - A ESLint configuration package for React developers who want to avoid security mistakes.
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
@@ -342,6 +341,7 @@
 - [maximebrugel/OniiChain](https://github.com/maximebrugel/OniiChain) - Anime NFTs with SVG on-chain (Ethereum)
 - [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix) - 
 - [pancakeswap/pancake-farm](https://github.com/pancakeswap/pancake-farm) - 
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 ## Svelte 
 

@@ -407,7 +407,7 @@
 - [Gumichocopengin8/crate-trends](https://github.com/Gumichocopengin8/crate-trends) - 🦀Visualize Rust Package: Crates comparison website
 - [alexreardon/tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A tiny invariant function
 - [multiversx/mx-deprecated-starter-dapp](https://github.com/multiversx/mx-deprecated-starter-dapp) - 
-- [multiversx/mx-deprecated-ide-vscode](https://github.com/multiversx/mx-deprecated-ide-vscode) - 💻 Deprecated: VS Code extension for developing MultiversX Smart Contracts - Rust, C and C++.
+- [multiversx/mx-deprecated-ide-vscode](https://github.com/multiversx/mx-deprecated-ide-vscode) - 💻 Deprecated VS Code extension.
 - [KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao) - Monorepo for the official KlimaDAO site, dApp, components and design system.
 - [huyiya/pancake-trading-bot](https://github.com/huyiya/pancake-trading-bot) - A simple mempool sniper bot 🤖
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps

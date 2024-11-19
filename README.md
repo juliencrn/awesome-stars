@@ -283,7 +283,7 @@
 - [nash-io/openlimits](https://github.com/nash-io/openlimits) - A Rust high performance cryptocurrency trading API with support for multiple exchanges and language wrappers.
 - [ElvenTools/elven-nft-minter-sc](https://github.com/ElvenTools/elven-nft-minter-sc) - Elven Tools NFT Minter Smart Contract - launching NFTs collections on the MultiversX blockchain
 - [evoxmusic/twitter-clone-rust](https://github.com/evoxmusic/twitter-clone-rust) - Twitter clone in Rust
-- [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs) - 🦀 MultiversX tool pack in Rust. Contains: a smart contract framework; a complete smart contract build solution; a large collection of example smart contracts; a testing framework and debugger that inc
+- [multiversx/mx-sdk-rs](https://github.com/multiversx/mx-sdk-rs) - 🦀 MultiversX SpaceCraft framework for Rust. Contains: a smart contract framework; a complete smart contract build solution; a large collection of example smart contracts; a testing framework and debug
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth

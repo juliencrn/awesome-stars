@@ -72,6 +72,7 @@
 
 ## HTML 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -192,7 +193,6 @@
 ## Others 
 
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [chobynleo/pancakeswap-frontend-hardhat-testnet](https://github.com/chobynleo/pancakeswap-frontend-hardhat-testnet) - Pancakeswap Front-end Configuration on Testnet
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [dabit3/ipfs-pinata-example](https://github.com/dabit3/ipfs-pinata-example) - Example function showing how to pin a file to Pinata from a JavaScript client

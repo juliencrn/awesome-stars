@@ -354,7 +354,7 @@
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-- [cinar/indicatorts](https://github.com/cinar/indicatorts) - IndicatorTS - Stock technical indicators and strategies in TypeScript for browser and server programs.
+- [cinar/indicatorts](https://github.com/cinar/indicatorts) - Indicator TS delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
 - [AdilsonFuxe/auth-microservice](https://github.com/AdilsonFuxe/auth-microservice) - Authentication microservice built with Node.js that follows Clean Architecture + TDD + SOLID + DDD + functional programming principles
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
